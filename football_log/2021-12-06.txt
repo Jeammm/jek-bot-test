@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720894,
+            "referee": "Valent\u00edn Pizarro",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-06T00:30:00+07:00",
+            "timestamp": 1638725400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1482,
+                "name": "Estadio Ciudad de Valencia",
+                "city": "Valencia"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 16"
+        },
+        "teams": {
+            "home": {
+                "id": 539,
+                "name": "Levante",
+                "logo": "https://media.api-sports.io/football/teams/539.png",
+                "winner": null
+            },
+            "away": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720891,
+            "referee": "Ricardo De Burgos",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-06T03:00:00+07:00",
+            "timestamp": 1638734400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1467,
+                "name": "Abanca-Bala\u00eddos",
+                "city": "Vigo"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 16"
+        },
+        "teams": {
+            "home": {
+                "id": 538,
+                "name": "Celta Vigo",
+                "logo": "https://media.api-sports.io/football/teams/538.png",
+                "winner": null
+            },
+            "away": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

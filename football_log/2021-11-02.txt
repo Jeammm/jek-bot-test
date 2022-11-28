@@ -1,0 +1,206 @@
+[
+    {
+        "fixture": {
+            "id": 720857,
+            "referee": "Adri\u00e1n Cordero",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-02T00:30:00+07:00",
+            "timestamp": 1635787800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1488,
+                "name": "Estadio de Vallecas",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 728,
+                "name": "Rayo Vallecano",
+                "logo": "https://media.api-sports.io/football/teams/728.png",
+                "winner": null
+            },
+            "away": {
+                "id": 538,
+                "name": "Celta Vigo",
+                "logo": "https://media.api-sports.io/football/teams/538.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710655,
+            "referee": "M. Atkinson",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-02T03:00:00+07:00",
+            "timestamp": 1635796800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 600,
+                "name": "Molineux Stadium",
+                "city": "Wolverhampton, West Midlands"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 39,
+                "name": "Wolves",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "winner": null
+            },
+            "away": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720853,
+            "referee": "Jos\u00e9 S\u00e1nchez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-02T03:00:00+07:00",
+            "timestamp": 1635796800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1482,
+                "name": "Estadio Ciudad de Valencia",
+                "city": "Valencia"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 539,
+                "name": "Levante",
+                "logo": "https://media.api-sports.io/football/teams/539.png",
+                "winner": null
+            },
+            "away": {
+                "id": 715,
+                "name": "Granada CF",
+                "logo": "https://media.api-sports.io/football/teams/715.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

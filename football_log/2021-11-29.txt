@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720883,
+            "referee": "Jes\u00fas Gil",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-29T00:30:00+07:00",
+            "timestamp": 1638120600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 11915,
+                "name": "Estadio Nuevo Mirandilla",
+                "city": "C\u00e1diz"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 724,
+                "name": "Cadiz",
+                "logo": "https://media.api-sports.io/football/teams/724.png",
+                "winner": null
+            },
+            "away": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720886,
+            "referee": "Jos\u00e9 S\u00e1nchez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-29T03:00:00+07:00",
+            "timestamp": 1638129600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1456,
+                "name": "Estadio Santiago Bernab\u00e9u",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": null
+            },
+            "away": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

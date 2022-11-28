@@ -1,0 +1,2915 @@
+[
+    {
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 720879,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T20:00:00+07:00",
+            "timestamp": 1638018000
+        },
+        "update": "2021-11-25T07:05:51+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.81"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "3.00"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "2.61"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "2.04"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "1.89"
+                            },
+                            {
+                                "value": "Home -0.25",
+                                "odd": "2.38"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "1.65"
+                            },
+                            {
+                                "value": "Home +0.25",
+                                "odd": "1.70"
+                            },
+                            {
+                                "value": "Away +0.25",
+                                "odd": "2.29"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 2.5",
+                                "odd": "2.42"
+                            },
+                            {
+                                "value": "Under 2.5",
+                                "odd": "1.60"
+                            },
+                            {
+                                "value": "Over 2.25",
+                                "odd": "2.09"
+                            },
+                            {
+                                "value": "Under 2.25",
+                                "odd": "1.81"
+                            },
+                            {
+                                "value": "Over 2.0",
+                                "odd": "1.80"
+                            },
+                            {
+                                "value": "Under 2.0",
+                                "odd": "2.11"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 0.75",
+                                "odd": "1.80"
+                            },
+                            {
+                                "value": "Under 0.75",
+                                "odd": "2.11"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "2.42"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "1.60"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "6.60"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "4.20"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "4.80"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "7.00"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "4.40"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "14.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "10.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "44.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "32.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "46.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "175.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "130.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "185.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "5.00"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "100.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "6.60"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "13.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "38.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "145.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "9.50"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "28.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "110.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "42.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "165.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "5.00"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "24.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "32.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "2.03"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "6.40"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "80.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "4.90"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "24.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "30.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "125.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.45"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.35"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "1.39"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "3.50"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "1.91"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "3.45"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "1.96"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "1.94"
+                            },
+                            {
+                                "value": "Home +0.25",
+                                "odd": "1.50"
+                            },
+                            {
+                                "value": "Away +0.25",
+                                "odd": "2.66"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 720887,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T22:15:00+07:00",
+            "timestamp": 1638026100
+        },
+        "update": "2021-11-25T07:05:50+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.06"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "3.35"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "3.45"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home -0.25",
+                                "odd": "1.79"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "2.16"
+                            },
+                            {
+                                "value": "Home -0.5",
+                                "odd": "2.07"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "1.86"
+                            },
+                            {
+                                "value": "Home -0.75",
+                                "odd": "2.44"
+                            },
+                            {
+                                "value": "Away -0.75",
+                                "odd": "1.62"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 2.5",
+                                "odd": "2.26"
+                            },
+                            {
+                                "value": "Under 2.5",
+                                "odd": "1.69"
+                            },
+                            {
+                                "value": "Over 2.25",
+                                "odd": "1.97"
+                            },
+                            {
+                                "value": "Under 2.25",
+                                "odd": "1.93"
+                            },
+                            {
+                                "value": "Over 2.0",
+                                "odd": "1.74"
+                            },
+                            {
+                                "value": "Under 2.0",
+                                "odd": "2.19"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 0.75",
+                                "odd": "1.84"
+                            },
+                            {
+                                "value": "Under 0.75",
+                                "odd": "2.06"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "2.42"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "1.62"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "30.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "9.25"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "4.70"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "2.89"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "5.00"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "29.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "7.60"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "5.80"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "8.75"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "7.60"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "20.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "17.50"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "30.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "60.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "55.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "90.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "7.40"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "16.50"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "110.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "9.25"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "23.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "85.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "50.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "60.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "4.20"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "17.50"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "110.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "1.99"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "7.00"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "100.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "6.00"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "42.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "125.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.27"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.29"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "1.70"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.84"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "1.91"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "4.40"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "1.58"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "2.47"
+                            },
+                            {
+                                "value": "Home -0.25",
+                                "odd": "2.21"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "1.72"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 710676,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T19:30:00+07:00",
+            "timestamp": 1638016200
+        },
+        "update": "2021-11-25T07:05:51+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "1.46"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "4.40"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "6.40"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home -1",
+                                "odd": "1.75"
+                            },
+                            {
+                                "value": "Away -1",
+                                "odd": "2.21"
+                            },
+                            {
+                                "value": "Home -1.5",
+                                "odd": "2.33"
+                            },
+                            {
+                                "value": "Away -1.5",
+                                "odd": "1.68"
+                            },
+                            {
+                                "value": "Home -1.25",
+                                "odd": "2.06"
+                            },
+                            {
+                                "value": "Away -1.25",
+                                "odd": "1.87"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 3.25",
+                                "odd": "2.28"
+                            },
+                            {
+                                "value": "Under 3.25",
+                                "odd": "1.68"
+                            },
+                            {
+                                "value": "Over 2.75",
+                                "odd": "1.76"
+                            },
+                            {
+                                "value": "Under 2.75",
+                                "odd": "2.16"
+                            },
+                            {
+                                "value": "Over 3.0",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Under 3.0",
+                                "odd": "1.90"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 1.25",
+                                "odd": "2.07"
+                            },
+                            {
+                                "value": "Under 1.25",
+                                "odd": "1.83"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "1.63"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "2.36"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "17.00"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "46.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "15.00"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "2.05"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "3.85"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "22.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "16.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "7.40"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "7.20"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "10.50"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "9.50"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "22.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "18.50"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "145.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "15.00"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "8.25"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "17.50"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "85.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "19.50"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "50.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "200.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "85.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "70.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "3.10"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "7.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "13.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "24.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "2.73"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "8.25"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "100.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "10.00"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "75.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "60.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.09"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.18"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "2.59"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "1.99"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "2.40"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "5.60"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home -0.25",
+                                "odd": "1.63"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "2.36"
+                            },
+                            {
+                                "value": "Home -0.5",
+                                "odd": "1.99"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "1.91"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 710681,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T22:00:00+07:00",
+            "timestamp": 1638025200
+        },
+        "update": "2021-11-25T07:05:51+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.21"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "3.25"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "3.25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "1.63"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "2.42"
+                            },
+                            {
+                                "value": "Home -0.25",
+                                "odd": "1.92"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "2.01"
+                            },
+                            {
+                                "value": "Home -0.5",
+                                "odd": "2.21"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "1.75"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 2.5",
+                                "odd": "2.03"
+                            },
+                            {
+                                "value": "Under 2.5",
+                                "odd": "1.87"
+                            },
+                            {
+                                "value": "Over 2.25",
+                                "odd": "1.78"
+                            },
+                            {
+                                "value": "Under 2.25",
+                                "odd": "2.13"
+                            },
+                            {
+                                "value": "Over 2.75",
+                                "odd": "2.35"
+                            },
+                            {
+                                "value": "Under 2.75",
+                                "odd": "1.64"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 0.75",
+                                "odd": "1.65"
+                            },
+                            {
+                                "value": "Under 0.75",
+                                "odd": "2.33"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "2.05"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "1.85"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "31.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "8.00"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "4.60"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "3.40"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "5.00"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "30.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "6.20"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "10.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "7.60"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "23.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "17.50"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "26.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "70.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "50.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "80.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "180.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "9.00"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "75.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "9.50"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "19.50"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "60.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "11.50"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "155.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "44.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "180.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "4.10"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "15.50"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "90.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "115.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "2.18"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "6.20"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "75.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "29.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "32.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.31"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.31"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "1.61"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.76"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "2.01"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "4.20"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "1.60"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "2.42"
+                            },
+                            {
+                                "value": "Home -0.25",
+                                "odd": "2.25"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "1.70"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 710683,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T22:00:00+07:00",
+            "timestamp": 1638025200
+        },
+        "update": "2021-11-25T07:05:51+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "1.27"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "9.50"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home -1.5",
+                                "odd": "1.81"
+                            },
+                            {
+                                "value": "Away -1.5",
+                                "odd": "2.13"
+                            },
+                            {
+                                "value": "Home -1.75",
+                                "odd": "2.02"
+                            },
+                            {
+                                "value": "Away -1.75",
+                                "odd": "1.91"
+                            },
+                            {
+                                "value": "Home -2",
+                                "odd": "2.31"
+                            },
+                            {
+                                "value": "Away -2",
+                                "odd": "1.69"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 3.5",
+                                "odd": "2.17"
+                            },
+                            {
+                                "value": "Under 3.5",
+                                "odd": "1.75"
+                            },
+                            {
+                                "value": "Over 3.25",
+                                "odd": "1.92"
+                            },
+                            {
+                                "value": "Under 3.25",
+                                "odd": "1.98"
+                            },
+                            {
+                                "value": "Over 3.0",
+                                "odd": "1.67"
+                            },
+                            {
+                                "value": "Under 3.0",
+                                "odd": "2.29"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 1.5",
+                                "odd": "2.14"
+                            },
+                            {
+                                "value": "Under 1.5",
+                                "odd": "1.77"
+                            },
+                            {
+                                "value": "Over 1.25",
+                                "odd": "1.83"
+                            },
+                            {
+                                "value": "Under 1.25",
+                                "odd": "2.07"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "16.00"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "43.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "9.75"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "1.74"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "3.75"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "22.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "28.00"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "21.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "8.50"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "7.80"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "8.25"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "8.25"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "13.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "160.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "11.00"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "24.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "115.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "32.00"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "95.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "34.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "140.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "105.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "2.95"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "5.40"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "27.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "3.25"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "10.00"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "120.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "14.50"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "130.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "90.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.03"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.12"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "3.50"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "1.67"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "2.76"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "7.20"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home -0.5",
+                                "odd": "1.67"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "2.29"
+                            },
+                            {
+                                "value": "Home -0.75",
+                                "odd": "2.04"
+                            },
+                            {
+                                "value": "Away -0.75",
+                                "odd": "1.86"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 710685,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T22:00:00+07:00",
+            "timestamp": 1638025200
+        },
+        "update": "2021-11-25T07:05:51+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "3.40"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "3.15"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "2.19"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "2.53"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "1.58"
+                            },
+                            {
+                                "value": "Home +0.25",
+                                "odd": "2.06"
+                            },
+                            {
+                                "value": "Away +0.25",
+                                "odd": "1.87"
+                            },
+                            {
+                                "value": "Home +0.5",
+                                "odd": "1.77"
+                            },
+                            {
+                                "value": "Away +0.5",
+                                "odd": "2.19"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 2.5",
+                                "odd": "2.25"
+                            },
+                            {
+                                "value": "Under 2.5",
+                                "odd": "1.70"
+                            },
+                            {
+                                "value": "Over 2.25",
+                                "odd": "2.05"
+                            },
+                            {
+                                "value": "Under 2.25",
+                                "odd": "1.85"
+                            },
+                            {
+                                "value": "Over 2.0",
+                                "odd": "1.65"
+                            },
+                            {
+                                "value": "Under 2.0",
+                                "odd": "2.28"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 0.75",
+                                "odd": "1.70"
+                            },
+                            {
+                                "value": "Under 0.75",
+                                "odd": "2.25"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "2.17"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "1.75"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "29.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "5.00"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "4.30"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "6.80"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "8.50"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "13.50"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "3.35"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "8.50"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "21.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "13.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "75.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "48.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "60.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "7.00"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "5.40"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "16.50"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "115.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "9.25"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "23.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "75.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "7.80"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "19.50"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "65.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "32.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "105.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "5.60"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "30.00"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "36.00"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "2.06"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "6.40"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "80.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "4.10"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "16.50"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "100.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "23.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "140.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.62"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.32"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "1.28"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "4.10"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "2.01"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "2.79"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home +0",
+                                "odd": "2.38"
+                            },
+                            {
+                                "value": "Away +0",
+                                "odd": "1.62"
+                            },
+                            {
+                                "value": "Home +0.25",
+                                "odd": "1.70"
+                            },
+                            {
+                                "value": "Away +0.25",
+                                "odd": "2.25"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021
+        },
+        "fixture": {
+            "id": 720880,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-27T03:00:00+07:00",
+            "timestamp": 1637956800
+        },
+        "update": "2021-11-25T15:01:20+07:00",
+        "bookmakers": [
+            {
+                "id": 5,
+                "name": "SBO",
+                "bets": [
+                    {
+                        "id": 1,
+                        "name": "Match Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "1.51"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "4.30"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "5.60"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Asian Handicap",
+                        "values": [
+                            {
+                                "value": "Home -0.5",
+                                "odd": "1.71"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "2.28"
+                            },
+                            {
+                                "value": "Home -0.75",
+                                "odd": "1.67"
+                            },
+                            {
+                                "value": "Away -0.75",
+                                "odd": "2.35"
+                            },
+                            {
+                                "value": "Home -1",
+                                "odd": "1.91"
+                            },
+                            {
+                                "value": "Away -1",
+                                "odd": "2.02"
+                            },
+                            {
+                                "value": "Home -1.25",
+                                "odd": "2.36"
+                            },
+                            {
+                                "value": "Away -1.25",
+                                "odd": "1.66"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Goals Over/Under",
+                        "values": [
+                            {
+                                "value": "Over 2.5",
+                                "odd": "2.21"
+                            },
+                            {
+                                "value": "Under 2.5",
+                                "odd": "1.72"
+                            },
+                            {
+                                "value": "Over 2.25",
+                                "odd": "1.90"
+                            },
+                            {
+                                "value": "Under 2.25",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Over 2.0",
+                                "odd": "1.62"
+                            },
+                            {
+                                "value": "Under 2.0",
+                                "odd": "2.42"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Goals Over/Under First Half",
+                        "values": [
+                            {
+                                "value": "Over 0.75",
+                                "odd": "1.71"
+                            },
+                            {
+                                "value": "Under 0.75",
+                                "odd": "2.23"
+                            },
+                            {
+                                "value": "Over 1.0",
+                                "odd": "2.17"
+                            },
+                            {
+                                "value": "Under 1.0",
+                                "odd": "1.75"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "HT/FT Double",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "19.50"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "35.00"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "18.00"
+                            },
+                            {
+                                "value": "Draw/Draw",
+                                "odd": "6.40"
+                            },
+                            {
+                                "value": "Home/Home",
+                                "odd": "2.13"
+                            },
+                            {
+                                "value": "Draw/Home",
+                                "odd": "4.20"
+                            },
+                            {
+                                "value": "Away/Home",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "Away/Draw",
+                                "odd": "19.50"
+                            },
+                            {
+                                "value": "Away/Away",
+                                "odd": "9.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Exact Score",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "4.80"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "5.80"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "7.40"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "10.50"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "12.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "42.00"
+                            },
+                            {
+                                "value": "4:0",
+                                "odd": "25.00"
+                            },
+                            {
+                                "value": "4:1",
+                                "odd": "28.00"
+                            },
+                            {
+                                "value": "4:2",
+                                "odd": "85.00"
+                            },
+                            {
+                                "value": "4:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "8.00"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "7.40"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "28.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "4:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "15.00"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "55.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "0:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "28.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "160.00"
+                            },
+                            {
+                                "value": "1:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "160.00"
+                            },
+                            {
+                                "value": "2:4",
+                                "odd": "225.00"
+                            },
+                            {
+                                "value": "3:4",
+                                "odd": "225.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "Correct Score - First Half",
+                        "values": [
+                            {
+                                "value": "1:0",
+                                "odd": "3.05"
+                            },
+                            {
+                                "value": "2:0",
+                                "odd": "8.75"
+                            },
+                            {
+                                "value": "2:1",
+                                "odd": "18.50"
+                            },
+                            {
+                                "value": "3:0",
+                                "odd": "38.00"
+                            },
+                            {
+                                "value": "3:1",
+                                "odd": "65.00"
+                            },
+                            {
+                                "value": "3:2",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:0",
+                                "odd": "2.14"
+                            },
+                            {
+                                "value": "1:1",
+                                "odd": "10.00"
+                            },
+                            {
+                                "value": "2:2",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "3:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "0:1",
+                                "odd": "10.50"
+                            },
+                            {
+                                "value": "0:2",
+                                "odd": "90.00"
+                            },
+                            {
+                                "value": "0:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "1:2",
+                                "odd": "90.00"
+                            },
+                            {
+                                "value": "1:3",
+                                "odd": "125.00"
+                            },
+                            {
+                                "value": "2:3",
+                                "odd": "125.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Double Chance",
+                        "values": [
+                            {
+                                "value": "Home/Draw",
+                                "odd": "1.12"
+                            },
+                            {
+                                "value": "Home/Away",
+                                "odd": "1.19"
+                            },
+                            {
+                                "value": "Draw/Away",
+                                "odd": "2.43"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "First Half Winner",
+                        "values": [
+                            {
+                                "value": "Home",
+                                "odd": "2.24"
+                            },
+                            {
+                                "value": "Draw",
+                                "odd": "2.20"
+                            },
+                            {
+                                "value": "Away",
+                                "odd": "5.00"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Asian Handicap First Half",
+                        "values": [
+                            {
+                                "value": "Home -0.25",
+                                "odd": "1.78"
+                            },
+                            {
+                                "value": "Away -0.25",
+                                "odd": "2.13"
+                            },
+                            {
+                                "value": "Home -0.5",
+                                "odd": "2.25"
+                            },
+                            {
+                                "value": "Away -0.5",
+                                "odd": "1.70"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Odd/Even",
+                        "values": [
+                            {
+                                "value": "Odd",
+                                "odd": "2.00"
+                            },
+                            {
+                                "value": "Even",
+                                "odd": "1.90"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

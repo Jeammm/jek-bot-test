@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720851,
+            "referee": "Alejandro Mu\u00f1iz",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-01T00:30:00+07:00",
+            "timestamp": 1635701400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1476,
+                "name": "Coliseum Alfonso P\u00e9rez",
+                "city": "Getafe"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 546,
+                "name": "Getafe",
+                "logo": "https://media.api-sports.io/football/teams/546.png",
+                "winner": null
+            },
+            "away": {
+                "id": 540,
+                "name": "Espanyol",
+                "logo": "https://media.api-sports.io/football/teams/540.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720854,
+            "referee": "Juan Mart\u00ednez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-01T03:00:00+07:00",
+            "timestamp": 1635710400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1491,
+                "name": "Reale Arena",
+                "city": "Donostia-San Sebasti\u00e1n"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png",
+                "winner": null
+            },
+            "away": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "fixture": {
+            "id": 710720,
+            "referee": "C. Pawson",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-17T02:30:00+07:00",
+            "timestamp": 1639683000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 547,
+                "name": "King Power Stadium",
+                "city": "Leicester, Leicestershire"
+            },
+            "status": {
+                "long": "Match Postponed",
+                "short": "PST",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            },
+            "away": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710723,
+            "referee": "Michael Oliver, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-17T02:45:00+07:00",
+            "timestamp": 1639683900,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 519,
+                "name": "Stamford Bridge",
+                "city": "London"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 49,
+                "name": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "winner": null
+            },
+            "away": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710724,
+            "referee": "Mike Dean, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-17T03:00:00+07:00",
+            "timestamp": 1639684800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 550,
+                "name": "Anfield",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": null
+            },
+            "away": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 710695,
+            "referee": "J. Moss",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-03T02:30:00+07:00",
+            "timestamp": 1638473400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 593,
+                "name": "Tottenham Hotspur Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": null
+            },
+            "away": {
+                "id": 55,
+                "name": "Brentford",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710692,
+            "referee": "M. Atkinson",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-03T03:15:00+07:00",
+            "timestamp": 1638476100,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 556,
+                "name": "Old Trafford",
+                "city": "Manchester"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "winner": null
+            },
+            "away": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

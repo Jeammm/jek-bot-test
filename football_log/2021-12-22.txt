@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720778,
+            "referee": "Valentin Pizarro Gomez, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-22T01:00:00+07:00",
+            "timestamp": 1640109600,
+            "periods": {
+                "first": 1640109600,
+                "second": 1640113200
+            },
+            "venue": {
+                "id": 1498,
+                "name": "Estadio de la Cer\u00e1mica",
+                "city": "Villarreal"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": true
+            },
+            "away": {
+                "id": 542,
+                "name": "Alaves",
+                "logo": "https://media.api-sports.io/football/teams/542.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 5,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 2,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 5,
+                "away": 2
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720777,
+            "referee": "Carlos Del Cerro Grande, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-22T03:30:00+07:00",
+            "timestamp": 1640118600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1494,
+                "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+                "city": "Sevilla"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "winner": null
+            },
+            "away": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

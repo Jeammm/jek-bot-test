@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 710751,
+            "referee": "R. Jones",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-29T00:30:00+07:00",
+            "timestamp": 1640712600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 546,
+                "name": "Elland Road",
+                "city": "Leeds, West Yorkshire"
+            },
+            "status": {
+                "long": "Match Postponed",
+                "short": "PST",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": null
+            },
+            "away": {
+                "id": 66,
+                "name": "Aston Villa",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710752,
+            "referee": "Michael Oliver, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-29T03:00:00+07:00",
+            "timestamp": 1640721600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 547,
+                "name": "King Power Stadium",
+                "city": "Leicester, Leicestershire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            },
+            "away": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

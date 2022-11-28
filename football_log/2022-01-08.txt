@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720932,
+            "referee": "Jorge Figueroa Vazquez, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2022-01-08T20:00:00+07:00",
+            "timestamp": 1641646800,
+            "periods": {
+                "first": 1641646800,
+                "second": null
+            },
+            "venue": {
+                "id": 1482,
+                "name": "Estadio Ciudad de Valencia",
+                "city": "Valencia"
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 539,
+                "name": "Levante",
+                "logo": "https://media.api-sports.io/football/teams/539.png",
+                "winner": null
+            },
+            "away": {
+                "id": 798,
+                "name": "Mallorca",
+                "logo": "https://media.api-sports.io/football/teams/798.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720935,
+            "referee": "Guillermo Cuadra",
+            "timezone": "Asia/Bangkok",
+            "date": "2022-01-08T22:15:00+07:00",
+            "timestamp": 1641654900,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1491,
+                "name": "Reale Arena",
+                "city": "Donostia-San Sebasti\u00e1n"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png",
+                "winner": null
+            },
+            "away": {
+                "id": 538,
+                "name": "Celta Vigo",
+                "logo": "https://media.api-sports.io/football/teams/538.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

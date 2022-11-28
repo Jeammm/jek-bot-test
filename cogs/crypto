@@ -1,0 +1,192 @@
+import discord
+from discord.ext import commands
+from pycoingecko import CoinGeckoAPI
+from discord_components import Button, ButtonStyle, Select, SelectOption
+import json
+import pytz
+from datetime import datetime, timedelta
+import asyncio
+
+OPTIONS = {
+    "✅️": 0,
+    "❌": 1,
+}
+
+SUPPORTED_COIN = ['bitcoin', 'litecoin', 'ethereum', 'dogecoin', 'bitkub-coin', 'shiba-inu', 'binance-usd']
+
+class Crypto(commands.Cog):
+
+    def __init__(self, bot):
+        self.bot = bot
+        self.cg = CoinGeckoAPI()
+        self.database = "portfolio.txt"
+        self.wallet = "bet-account.txt"
+
+    def get_wallets(self):
+        with open(self.wallet) as ba:
+            data = json.loads(ba.read())
+        return data
+
+    def update_wallets(self, data):
+        with open(self.wallet, 'w') as ba:
+            json.dump(data, ba, indent=4)
+
+    def get_portfolio(self):
+        with open(self.database) as ba:
+            data = json.loads(ba.read())
+        return data
+
+    def update_portfolio(self, owner, coin, amount, buying):
+        owner = str(owner)
+        data = self.get_portfolio()
+        if owner not in data:
+            data[owner] = {}
+        if coin not in data[owner]:
+            data[owner][coin] = 0
+        if buying:
+            data[owner][coin] += amount
+        else:
+            data[owner][coin] -= amount
+
+        with open(self.database, 'w') as ba:
+            json.dump(data, ba, indent=4)
+
+    def get_price(self, spec=None):
+        if spec == None:
+            coin_prices = self.cg.get_price(ids=SUPPORTED_COIN, vs_currencies='usd')
+            return coin_prices
+        else:
+            coin_prices = self.cg.get_price(ids=spec, vs_currencies='usd')
+            return coin_prices
+
+    @commands.command(aliases=["coin", "crypto"])
+    async def buy(self, ctx, amount=None):
+        if amount == None:
+            coin_prices = self.get_price()
+            emBed = discord.Embed(title="Current Price!")
+            for coin, usd in coin_prices.items():
+                emBed.add_field(name=coin.upper(), value=f"{usd['usd']} Jek coin", inline=True)
+            await ctx.send("`jek buy coin amount` to buy coin", embed=emBed)
+            return
+
+        async def callback(interaction):
+            if interaction.author.id != ctx.author.id:
+                await interaction.send("This panel does not belong to you.")
+                return
+
+            def _check(r, u):
+                return (
+                    r.emoji in OPTIONS.keys()
+                    and u == ctx.author
+                    and r.message.id == msg.id
+                )
+
+            coin_recieve = amount/float(self.get_price(interaction.values[0])[interaction.values[0]]['usd'])
+
+            emBed = discord.Embed(
+                title='Confirm order',
+                description=f"{amount} Jek coin -> {coin_recieve} {interaction.values[0]}",
+                colour=ctx.author.colour,
+                timestamp=datetime.utcnow()
+            )
+            emBed.set_footer(text=f"{ctx.author.display_name}", icon_url=ctx.author.avatar_url)
+
+            msg = await interaction.send(embed=emBed, ephemeral=False)
+            for emoji in list(OPTIONS.keys()):
+                await msg.add_reaction(emoji)
+
+            try:
+                reaction, _ = await self.bot.wait_for("reaction_add", timeout=60.0, check=_check)
+            except asyncio.TimeoutError:
+                await msg.delete()
+                await ctx.message.delete()
+                await bet_menu.delete()
+            else:
+                click = OPTIONS[reaction.emoji]
+                if click == 1:
+                    await msg.delete()
+                else:
+                    try:
+                        await buy_menu.delete()
+                        await msg.delete()
+                        await ctx.message.delete()
+                        await ctx.send(f"{ctx.author.name} : Confirmed {amount} Jek coin -> {coin_recieve} {interaction.values[0]}")
+
+                        self.update_portfolio(ctx.author.id, interaction.values[0], coin_recieve, buying=True)
+
+                        wallet = self.get_wallets()
+                        wallet[str(ctx.author.id)] -= amount
+                        self.update_wallets(wallet)
+
+                    except discord.errors.NotFound:
+                        await msg.delete()
+                        await ctx.send("ซื้อไปแล้ว อยากซื้อเพิ่มก็กดใหม่")
+
+
+        if not amount.isnumeric():
+            await ctx.send("ใส่ตัวเลขให้ถูกงับ")
+            return
+        else:
+            amount = float(amount)
+        await ctx.trigger_typing()
+        with open("bet-account.txt") as fp:
+            accounts = json.loads(fp.read())
+        if str(ctx.author.id) not in accounts.keys():
+            await ctx.send("Create account first, `jek wallet` now and get free 1000 coin")
+            return
+        if float(amount) > accounts[str(ctx.author.id)]:
+            await ctx.send("เงินไม่พออะเตง")
+            return
+
+
+        emBed = discord.Embed(title="Which one")
+        coin_prices = self.get_price()
+        for coin, usd in coin_prices.items():
+            emBed.add_field(name=coin.upper(), value=f"{usd['usd']} Jek coin", inline=True)
+        emBed.set_footer(text=f"{ctx.author.display_name} : {amount} Jek coin", icon_url=ctx.author.avatar_url)
+
+        buy_menu = await ctx.send(
+            embed=emBed,
+            components=[
+                self.bot.components_manager.add_callback(
+                    Select(
+                        options=[SelectOption(label=coin.upper(), description=f"{usd['usd']} Jek coin", value=coin) for coin, usd in coin_prices.items()]
+                    ),callback
+                    )
+                ],
+            )
+
+    @commands.command()
+    async def sell(self, ctx, amount=None, coin=None):
+        if coin != None:
+            coin = coin.lower()
+        port = self.get_portfolio()
+        if str(ctx.author.id) not in port:
+            port[str(ctx.author.id)] = {}
+            with open(self.database, 'w') as ba:
+                json.dump(port, ba, indent=4)
+
+        try:
+            coin_prices = self.get_price(list(port[str(ctx.author.id)].keys()))
+        except:
+            await ctx.send("no coin")
+            return
+
+
+        emBed = discord.Embed(title="Portfolio")
+        for coin_name, size in port[str(ctx.author.id)].items():
+            emBed.add_field(name=coin_name.upper(), value=f"{size} {coin_name} -> {coin_prices[coin_name]['usd']*size} Jek coin", inline=False)
+
+        if coin == None or amount == None:
+            await ctx.send("`jek sell amount coin` to sell coin", embed=emBed)
+        else:
+            jek_recieve = float(amount)*coin_prices[coin]['usd']
+            self.update_portfolio(ctx.author.id, coin, float(amount), buying=False)
+            await ctx.send(f"{ctx.author.name} : {self.get_portfolio()[str(ctx.author.id)][coin]} {coin} left and recieve {jek_recieve} Jek coin")
+
+            wallet = self.get_wallets()
+            wallet[str(ctx.author.id)] += jek_recieve
+            self.update_wallets(wallet)
+
+def setup(bot):
+    bot.add_cog(Crypto(bot))

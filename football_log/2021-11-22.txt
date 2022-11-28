@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720878,
+            "referee": "Valent\u00edn Pizarro",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-22T00:30:00+07:00",
+            "timestamp": 1637515800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1473,
+                "name": "Estadio Manuel Mart\u00ednez Valero",
+                "city": "Elche"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 797,
+                "name": "Elche",
+                "logo": "https://media.api-sports.io/football/teams/797.png",
+                "winner": null
+            },
+            "away": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720875,
+            "referee": "Mario Melero",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-22T03:00:00+07:00",
+            "timestamp": 1637524800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1491,
+                "name": "Reale Arena",
+                "city": "Donostia-San Sebasti\u00e1n"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png",
+                "winner": null
+            },
+            "away": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

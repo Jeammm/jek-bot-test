@@ -1,0 +1,274 @@
+[
+    {
+        "fixture": {
+            "id": 720842,
+            "referee": "Santiago Jaime",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-28T00:00:00+07:00",
+            "timestamp": 1635354000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1484,
+                "name": "Iberostar Estadi",
+                "city": "Palma de Mallorca"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 798,
+                "name": "Mallorca",
+                "logo": "https://media.api-sports.io/football/teams/798.png",
+                "winner": null
+            },
+            "away": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720847,
+            "referee": "Antonio Mateu",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-28T00:00:00+07:00",
+            "timestamp": 1635354000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1488,
+                "name": "Estadio de Vallecas",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 728,
+                "name": "Rayo Vallecano",
+                "logo": "https://media.api-sports.io/football/teams/728.png",
+                "winner": null
+            },
+            "away": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720840,
+            "referee": "Isidro D\u00edaz de Mera",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-28T01:00:00+07:00",
+            "timestamp": 1635357600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1489,
+                "name": "Estadio Benito Villamar\u00edn",
+                "city": "Sevilla"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png",
+                "winner": null
+            },
+            "away": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720846,
+            "referee": "C\u00e9sar Soto",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-28T02:30:00+07:00",
+            "timestamp": 1635363000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1456,
+                "name": "Estadio Santiago Bernab\u00e9u",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": null
+            },
+            "away": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720901,
+            "referee": "Jos\u00e9 S\u00e1nchez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-13T00:30:00+07:00",
+            "timestamp": 1639330200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1489,
+                "name": "Estadio Benito Villamar\u00edn",
+                "city": "Sevilla"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png",
+                "winner": null
+            },
+            "away": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720906,
+            "referee": "Antonio Mateu",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-13T03:00:00+07:00",
+            "timestamp": 1639339200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1456,
+                "name": "Estadio Santiago Bernab\u00e9u",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": null
+            },
+            "away": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

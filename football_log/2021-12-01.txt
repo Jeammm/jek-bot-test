@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 710693,
+            "referee": "A. Madley",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-01T02:30:00+07:00",
+            "timestamp": 1638300600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 562,
+                "name": "St. James' Park",
+                "city": "Newcastle upon Tyne"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": null
+            },
+            "away": {
+                "id": 71,
+                "name": "Norwich",
+                "logo": "https://media.api-sports.io/football/teams/71.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710688,
+            "referee": "K. Friend",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-01T03:15:00+07:00",
+            "timestamp": 1638303300,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 546,
+                "name": "Elland Road",
+                "city": "Leeds, West Yorkshire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 14"
+        },
+        "teams": {
+            "home": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": null
+            },
+            "away": {
+                "id": 52,
+                "name": "Crystal Palace",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

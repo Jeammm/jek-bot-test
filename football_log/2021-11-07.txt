@@ -1,0 +1,614 @@
+[
+    {
+        "fixture": {
+            "id": 710658,
+            "referee": "David Coote, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T00:30:00+07:00",
+            "timestamp": 1636219800,
+            "periods": {
+                "first": 1636219800,
+                "second": 1636223400
+            },
+            "venue": {
+                "id": 508,
+                "name": "The American Express Community Stadium",
+                "city": "Falmer, East Sussex"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 51,
+                "name": "Brighton",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "winner": null
+            },
+            "away": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720859,
+            "referee": "Adrian Cordero Vega, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T00:30:00+07:00",
+            "timestamp": 1636219800,
+            "periods": {
+                "first": 1636219800,
+                "second": 1636223400
+            },
+            "venue": {
+                "id": 1470,
+                "name": "Estadio de Mendizorroza",
+                "city": "Vitoria-Gasteiz"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 542,
+                "name": "Alaves",
+                "logo": "https://media.api-sports.io/football/teams/542.png",
+                "winner": true
+            },
+            "away": {
+                "id": 539,
+                "name": "Levante",
+                "logo": "https://media.api-sports.io/football/teams/539.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 2,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720866,
+            "referee": "Pablo Gonzales Fuertes, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T03:00:00+07:00",
+            "timestamp": 1636228800,
+            "periods": {
+                "first": 1636228800,
+                "second": 1636232400
+            },
+            "venue": {
+                "id": 1456,
+                "name": "Estadio Santiago Bernab\u00e9u",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": true
+            },
+            "away": {
+                "id": 728,
+                "name": "Rayo Vallecano",
+                "logo": "https://media.api-sports.io/football/teams/728.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 2,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 2,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720868,
+            "referee": "Jesus Gil Manzano, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T20:00:00+07:00",
+            "timestamp": 1636290000,
+            "periods": {
+                "first": 1636290000,
+                "second": 1636293600
+            },
+            "venue": {
+                "id": 1498,
+                "name": "Estadio de la Cer\u00e1mica",
+                "city": "Villarreal"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": true
+            },
+            "away": {
+                "id": 546,
+                "name": "Getafe",
+                "logo": "https://media.api-sports.io/football/teams/546.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710656,
+            "referee": "Kevin Friend, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T21:00:00+07:00",
+            "timestamp": 1636293600,
+            "periods": {
+                "first": 1636293600,
+                "second": 1636297200
+            },
+            "venue": {
+                "id": 494,
+                "name": "Emirates Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "winner": true
+            },
+            "away": {
+                "id": 38,
+                "name": "Watford",
+                "logo": "https://media.api-sports.io/football/teams/38.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710661,
+            "referee": "Chris Kavanagh, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T21:00:00+07:00",
+            "timestamp": 1636293600,
+            "periods": {
+                "first": 1636293600,
+                "second": 1636297200
+            },
+            "venue": {
+                "id": 8560,
+                "name": "Goodison Park",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": null
+            },
+            "away": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710662,
+            "referee": "England Darren, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T21:00:00+07:00",
+            "timestamp": 1636293600,
+            "periods": {
+                "first": 1636293600,
+                "second": 1636297200
+            },
+            "venue": {
+                "id": 546,
+                "name": "Elland Road",
+                "city": "Leeds, West Yorkshire"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": null
+            },
+            "away": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720867,
+            "referee": "Cesar Soto Grado, Spain",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T22:15:00+07:00",
+            "timestamp": 1636298100,
+            "periods": {
+                "first": 1636298100,
+                "second": 1636301700
+            },
+            "venue": {
+                "id": 1497,
+                "name": "Estadio de Mestalla",
+                "city": "Valencia"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png",
+                "winner": null
+            },
+            "away": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 3
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 3,
+                "away": 3
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710665,
+            "referee": "Craig Pawson, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-07T23:30:00+07:00",
+            "timestamp": 1636302600,
+            "periods": {
+                "first": 1636302600,
+                "second": 1636306200
+            },
+            "venue": {
+                "id": 598,
+                "name": "London Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 48,
+                "name": "West Ham",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "winner": true
+            },
+            "away": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 3,
+                "away": 2
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

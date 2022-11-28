@@ -1,0 +1,682 @@
+[
+    {
+        "fixture": {
+            "id": 710648,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T18:30:00+07:00",
+            "timestamp": 1635593400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 547,
+                "name": "King Power Stadium",
+                "city": "Leicester, Leicestershire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            },
+            "away": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720858,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T19:00:00+07:00",
+            "timestamp": 1635595200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1473,
+                "name": "Estadio Manuel Mart\u00ednez Valero",
+                "city": "Elche"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 797,
+                "name": "Elche",
+                "logo": "https://media.api-sports.io/football/teams/797.png",
+                "winner": null
+            },
+            "away": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710647,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:00:00+07:00",
+            "timestamp": 1635602400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 512,
+                "name": "Turf Moor",
+                "city": "Burnley"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 44,
+                "name": "Burnley",
+                "logo": "https://media.api-sports.io/football/teams/44.png",
+                "winner": null
+            },
+            "away": {
+                "id": 55,
+                "name": "Brentford",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710649,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:00:00+07:00",
+            "timestamp": 1635602400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 550,
+                "name": "Anfield",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": null
+            },
+            "away": {
+                "id": 51,
+                "name": "Brighton",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710650,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:00:00+07:00",
+            "timestamp": 1635602400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 555,
+                "name": "Etihad Stadium",
+                "city": "Manchester"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "winner": null
+            },
+            "away": {
+                "id": 52,
+                "name": "Crystal Palace",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710651,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:00:00+07:00",
+            "timestamp": 1635602400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 562,
+                "name": "St. James' Park",
+                "city": "Newcastle upon Tyne"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": null
+            },
+            "away": {
+                "id": 49,
+                "name": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710654,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:00:00+07:00",
+            "timestamp": 1635602400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 596,
+                "name": "Vicarage Road",
+                "city": "Watford"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 38,
+                "name": "Watford",
+                "logo": "https://media.api-sports.io/football/teams/38.png",
+                "winner": null
+            },
+            "away": {
+                "id": 41,
+                "name": "Southampton",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720855,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T21:15:00+07:00",
+            "timestamp": 1635603300,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1494,
+                "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+                "city": "Sevilla"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "winner": null
+            },
+            "away": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710653,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T23:30:00+07:00",
+            "timestamp": 1635611400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 593,
+                "name": "Tottenham Hotspur Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": null
+            },
+            "away": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720856,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-30T23:30:00+07:00",
+            "timestamp": 1635611400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1497,
+                "name": "Estadio de Mestalla",
+                "city": "Valencia"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png",
+                "winner": null
+            },
+            "away": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

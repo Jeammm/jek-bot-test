@@ -1,0 +1,50 @@
+import discord
+from discord.ext import commands
+from discord.utils import get as getvoice
+from time import sleep
+
+class Shout(commands.Cog):
+
+    def __init__(self, bot):
+        self.bot = bot
+
+    @commands.command()
+    async def boo(self, ctx):
+        channel = ctx.author.voice.channel
+        voice_client = getvoice(self.bot.voice_clients, guild=ctx.guild)
+
+        if voice_client == None:
+            if ctx.author.voice.channel == None:
+                await ctx.send("เข้าห้องก่อนครับ")
+                return
+            await channel.connect()
+            voice_client = getvoice(self.bot.voice_clients, guild=ctx.guild)
+            voice_client.play(discord.FFmpegPCMAudio('shout sound/boo.mp3'))
+            while voice_client.is_playing():
+                sleep(.1)
+            await voice_client.disconnect()
+        else:
+            await ctx.send(f"ไม่ว่าง", delete_after=5)
+        await ctx.message.delete()
+
+    @commands.command()
+    async def amogus(self, ctx):
+        channel = ctx.author.voice.channel
+        voice_client = getvoice(self.bot.voice_clients, guild=ctx.guild)
+
+        if voice_client == None:
+            if ctx.author.voice.channel == None:
+                await ctx.send("เข้าห้องก่อนครับ")
+                return
+            await channel.connect()
+            voice_client = getvoice(self.bot.voice_clients, guild=ctx.guild)
+            voice_client.play(discord.FFmpegPCMAudio('shout sound/amogus.mp3'))
+            while voice_client.is_playing():
+                sleep(.1)
+            await voice_client.disconnect()
+        else:
+            await ctx.send(f"ไม่ว่าง", delete_after=5)
+        await ctx.message.delete()
+
+def setup(bot):
+    bot.add_cog(Shout(bot))

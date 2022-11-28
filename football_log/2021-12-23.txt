@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 720822,
+            "referee": "Alejandro Hern\u00e1ndez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-23T01:00:00+07:00",
+            "timestamp": 1640196000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1479,
+                "name": "Estadio Nuevo Los C\u00e1rmenes",
+                "city": "Granada"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 9"
+        },
+        "teams": {
+            "home": {
+                "id": 715,
+                "name": "Granada CF",
+                "logo": "https://media.api-sports.io/football/teams/715.png",
+                "winner": null
+            },
+            "away": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720939,
+            "referee": "C\u00e9sar Soto",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-23T03:30:00+07:00",
+            "timestamp": 1640205000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1460,
+                "name": "San Mam\u00e9s Barria",
+                "city": "Bilbao"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 21"
+        },
+        "teams": {
+            "home": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png",
+                "winner": null
+            },
+            "away": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "fixture": {
+            "id": 720839,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-27T00:00:00+07:00",
+            "timestamp": 1635267600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1470,
+                "name": "Estadio de Mendizorroza",
+                "city": "Vitoria-Gasteiz"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 542,
+                "name": "Alaves",
+                "logo": "https://media.api-sports.io/football/teams/542.png",
+                "winner": null
+            },
+            "away": {
+                "id": 797,
+                "name": "Elche",
+                "logo": "https://media.api-sports.io/football/teams/797.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720844,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-27T02:00:00+07:00",
+            "timestamp": 1635274800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1474,
+                "name": "RCDE Stadium",
+                "city": "Cornella de Llobregat"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 540,
+                "name": "Espanyol",
+                "logo": "https://media.api-sports.io/football/teams/540.png",
+                "winner": null
+            },
+            "away": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720848,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-27T02:30:00+07:00",
+            "timestamp": 1635276600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1498,
+                "name": "Estadio de la Cer\u00e1mica",
+                "city": "Villarreal"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 11"
+        },
+        "teams": {
+            "home": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": null
+            },
+            "away": {
+                "id": 724,
+                "name": "Cadiz",
+                "logo": "https://media.api-sports.io/football/teams/724.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

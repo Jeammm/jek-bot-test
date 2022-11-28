@@ -1,0 +1,342 @@
+[
+    {
+        "fixture": {
+            "id": 720850,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-31T02:00:00+07:00",
+            "timestamp": 1635620400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1462,
+                "name": "Camp Nou",
+                "city": "Barcelona"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "winner": null
+            },
+            "away": {
+                "id": 542,
+                "name": "Alaves",
+                "logo": "https://media.api-sports.io/football/teams/542.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720852,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-31T20:00:00+07:00",
+            "timestamp": 1635685200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 11915,
+                "name": "Estadio Nuevo Mirandilla",
+                "city": "C\u00e1diz"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 724,
+                "name": "Cadiz",
+                "logo": "https://media.api-sports.io/football/teams/724.png",
+                "winner": null
+            },
+            "away": {
+                "id": 798,
+                "name": "Mallorca",
+                "logo": "https://media.api-sports.io/football/teams/798.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710652,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-31T21:00:00+07:00",
+            "timestamp": 1635688800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 565,
+                "name": "Carrow Road",
+                "city": "Norwich, Norfolk"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 71,
+                "name": "Norwich",
+                "logo": "https://media.api-sports.io/football/teams/71.png",
+                "winner": null
+            },
+            "away": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720849,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-31T22:15:00+07:00",
+            "timestamp": 1635693300,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1461,
+                "name": "Estadio Wanda Metropolitano",
+                "city": "Madrid"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png",
+                "winner": null
+            },
+            "away": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710646,
+            "referee": null,
+            "timezone": "Asia/Bangkok",
+            "date": "2021-10-31T23:30:00+07:00",
+            "timestamp": 1635697800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 495,
+                "name": "Villa Park",
+                "city": "Birmingham"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 66,
+                "name": "Aston Villa",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "winner": null
+            },
+            "away": {
+                "id": 48,
+                "name": "West Ham",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

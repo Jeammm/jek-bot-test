@@ -1,0 +1,138 @@
+[
+    {
+        "fixture": {
+            "id": 710697,
+            "referee": "M. Dean",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-07T03:00:00+07:00",
+            "timestamp": 1638820800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 8560,
+                "name": "Goodison Park",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": null
+            },
+            "away": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 720892,
+            "referee": "Jorge Figueroa",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-07T03:00:00+07:00",
+            "timestamp": 1638820800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1476,
+                "name": "Coliseum Alfonso P\u00e9rez",
+                "city": "Getafe"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 16"
+        },
+        "teams": {
+            "home": {
+                "id": 546,
+                "name": "Getafe",
+                "logo": "https://media.api-sports.io/football/teams/546.png",
+                "winner": null
+            },
+            "away": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

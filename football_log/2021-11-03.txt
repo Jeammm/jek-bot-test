@@ -1,0 +1,546 @@
+[
+    {
+        "fixture": {
+            "id": 787608,
+            "referee": "Artur Soares Dias",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T00:45:00+07:00",
+            "timestamp": 1635875100,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 752,
+                "name": "VOLKSWAGEN ARENA",
+                "city": "Wolfsburg"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 161,
+                "name": "VfL Wolfsburg",
+                "logo": "https://media.api-sports.io/football/teams/161.png",
+                "winner": null
+            },
+            "away": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787609,
+            "referee": "F. Brych",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T00:45:00+07:00",
+            "timestamp": 1635875100,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1518,
+                "name": "Eleda Stadion",
+                "city": "Malm\u00f6"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 375,
+                "name": "Malmo FF",
+                "logo": "https://media.api-sports.io/football/teams/375.png",
+                "winner": null
+            },
+            "away": {
+                "id": 49,
+                "name": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787610,
+            "referee": "S. Marciniak",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 700,
+                "name": "Allianz Arena",
+                "city": "M\u00fcnchen"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 157,
+                "name": "Bayern Munich",
+                "logo": "https://media.api-sports.io/football/teams/157.png",
+                "winner": null
+            },
+            "away": {
+                "id": 211,
+                "name": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787611,
+            "referee": "O. Ha\u021began",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "NSK Olimpijs'kyj",
+                "city": "Kiev"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 572,
+                "name": "Dynamo Kyiv",
+                "logo": "https://media.api-sports.io/football/teams/572.png",
+                "winner": null
+            },
+            "away": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787612,
+            "referee": "S. Vin\u010di\u0107",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 879,
+                "name": "Gewiss Stadium",
+                "city": "Bergamo"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 499,
+                "name": "Atalanta",
+                "logo": "https://media.api-sports.io/football/teams/499.png",
+                "winner": null
+            },
+            "away": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787613,
+            "referee": "S. G\u00f6z\u00fcb\u00fcy\u00fck",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1498,
+                "name": "Estadio de la Cer\u00e1mica",
+                "city": "Villarreal"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": null
+            },
+            "away": {
+                "id": 565,
+                "name": "BSC Young Boys",
+                "logo": "https://media.api-sports.io/football/teams/565.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787614,
+            "referee": "I. Kovacs",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1494,
+                "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+                "city": "Sevilla"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png",
+                "winner": null
+            },
+            "away": {
+                "id": 79,
+                "name": "Lille",
+                "logo": "https://media.api-sports.io/football/teams/79.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 787615,
+            "referee": "Alejandro Hern\u00e1ndez",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-03T03:00:00+07:00",
+            "timestamp": 1635883200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 909,
+                "name": "Allianz Stadium",
+                "city": "Torino"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 496,
+                "name": "Juventus",
+                "logo": "https://media.api-sports.io/football/teams/496.png",
+                "winner": null
+            },
+            "away": {
+                "id": 596,
+                "name": "Zenit Saint Petersburg",
+                "logo": "https://media.api-sports.io/football/teams/596.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

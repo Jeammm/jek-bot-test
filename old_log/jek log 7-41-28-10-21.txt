@@ -1,0 +1,684 @@
+
+[command] Kanoon’s Best Amigos | 2021-10-20 15:01:03.947575 | pp4rosie#2007 | jek play พี่ไม่หล่อลวง
+[command] Kanoon’s Best Amigos | 2021-10-20 15:05:07.044751 | pp4rosie#2007 | jek play https://youtu.be/AiNNkwkCaj0
+[command] Kanoon’s Best Amigos | 2021-10-20 15:09:39.557632 | pp4rosie#2007 | jek song https://youtu.be/8ZuEUIaiJi0
+[command] Kanoon’s Best Amigos | 2021-10-20 15:10:02.287220 | pp4rosie#2007 | jek play https://youtu.be/8ZuEUIaiJi0
+[command] Kanoon’s Best Amigos | 2021-10-20 15:12:38.271254 | pp4rosie#2007 | jek play ขี้หึง
+[command] Kanoon’s Best Amigos | 2021-10-20 15:20:21.706415 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=RHb5LKnnxLg
+[command] Kanoon’s Best Amigos | 2021-10-20 15:21:35.616655 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ggUZMTWd81s
+[command] Kanoon’s Best Amigos | 2021-10-20 15:24:06.020138 | ....#6809 | jek spam <@!539721677970472970>
+[command] Kanoon’s Best Amigos | 2021-10-20 15:27:23.658072 | pp4rosie#2007 | jek play จังหวะหัวใจ บี้ เดอะสกา
+[command] Kanoon’s Best Amigos | 2021-10-20 15:34:38.649140 | zearthz#2243 | jek play https://youtu.be/DttRL7yNW7c
+[command] Kanoon’s Best Amigos | 2021-10-20 15:37:27.267236 | pp4rosie#2007 | jek play https://youtu.be/G25jfO_slYA
+[command] Kanoon’s Best Amigos | 2021-10-20 15:43:29.148279 | pp4rosie#2007 | jek play la vie en rose andrea bocelli
+[command] Kanoon’s Best Amigos | 2021-10-20 15:46:40.503981 | pp4rosie#2007 | jek play 邓丽君 星
+[command] Kanoon’s Best Amigos | 2021-10-20 15:55:04.182871 | pp4rosie#2007 | jek play 天蚕变 歌
+[command] Kanoon’s Best Amigos | 2021-10-20 15:59:17.366002 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=72UO0v5ESUo
+[command] Kanoon’s Best Amigos | 2021-10-20 16:03:28.000050 | pp4rosie#2007 | jek play https://youtu.be/Gyk4lHL_pZQ
+[command] Kanoon’s Best Amigos | 2021-10-20 16:12:01.276825 | pp4rosie#2007 | jek play ue wo muite arukou
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 16:50:05.754206 | pp4rosie#2007 | jek play ramenez la coupe à la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 19:26:15.162760 | pp4rosie#2007 | jek play https://youtu.be/PNABrf_ECg8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:11:27.551777 | QGIS#6129 | jek boo
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:12:37.548207 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:12:45.863428 | QGIS#6129 | jek ว้าว
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:12:54.923776 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:12:55.013132 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:13:02.759201 | pp4rosie#2007 | jek get_quote
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:14:22.116012 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:14:32.375055 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:14:37.300771 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:15:09.010789 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:15:39.525304 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:16:14.059069 | pp4rosie#2007 | jek meme
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:16:22.080078 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:16:49.920856 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:17:04.001723 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:26:04.255838 | pp4rosie#2007 | jek what | Conscience is a man's compass.  -Vincent van Gogh
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:26:19.324973 | QGIS#6129 | jek what
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:26:25.010251 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:26:33.408425 | pp4rosie#2007 | jek what | If you think you can do a thing or think you can't do a thing, you're right. -Henry Ford
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:26:52.177126 | QGIS#6129 | jek what | The important thing is not to stop questioning. Curiosity has its own reason for existing. -Albert Einstein
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:27:21.176215 | pp4rosie#2007 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:31:11.849018 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:34:40.788250 | pp4rosie#2007 | jek play ramenez la coupe à la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:38:56.544989 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:40:50.215025 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:42:05.833019 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:42:18.377572 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:42:32.936446 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:42:44.302564 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:45:39.092954 | QGIS#6129 | jek what | Pathétique
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:46:08.522714 | pp4rosie#2007 | jek what Localization
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:46:24.870146 | pp4rosie#2007 | jek what | jek what Localization
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:47:01.238769 | QGIS#6129 | jek what | workability
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:47:30.908235 | pp4rosie#2007 | jek what | apprivoiser
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:47:58.340832 | pp4rosie#2007 | jek trans je me réveille
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:48:19.800101 | pp4rosie#2007 | jek what | je me réveille
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:48:23.392951 | QGIS#6129 | jek trans Nigga
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:48:44.531485 | QGIS#6129 | jek trans black nigga
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:48:58.269335 | pp4rosie#2007 | jek trans ching chong
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:49:09.215968 | QGIS#6129 | jek trans nigga black monkey
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:49:41.686321 | QGIS#6129 | jek trans Nigga Mouse
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:49:50.992862 | pp4rosie#2007 | jek trans 习近平维尼熊
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:50:26.243216 | pp4rosie#2007 | jek trans คัมภีรปกรณ์
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:51:39.202327 | pp4rosie#2007 | jek trans stop posting about amogus
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:51:57.131276 | QGIS#6129 | jek trans SUS
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:52:23.607968 | pp4rosie#2007 | jek trans les états unis d
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:52:43.877661 | pp4rosie#2007 | jek trans le royaume uni
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:52:49.413881 | QGIS#6129 | jek trans "Pathétique" II. Adagio cantabile
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:53:04.776226 | QGIS#6129 | jek trans Adagio cantabile
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:53:34.220231 | QGIS#6129 | jek trans Ludwig van Beethoven's Piano Sonata No. 8 in C minor, Op. 13, commonly known as Sonata Pathétique, was written in 1798 when the composer was 27 years old, and was published in 1799. Beethoven dedicated the work to his friend Prince Karl von Lichnowsky. Although commonly thought to be one of the few works to be named by the composer himself, it was actually named Grande sonate pathétique (to Beethoven's liking) by the publisher, who was impressed by the sonata's tragic sonorities. The Adagio movement opens with a famous cantabile melody. This theme is played three times, always in A-flat major, separated by two modulating episodes. The first episode is set in F minor (parallel to A-flat major), further modulating to E-flat major before returning to the main theme. The second episode begins in A-flat minor and modulates to E major. With the final return of the main theme, the accompaniment becomes richer and takes on the triplet rhythm of the second episode.
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:53:36.550765 | pp4rosie#2007 | jek trans Eh ça c'est Vegedream de Gagnoa
+Casse la démarche comme Samuel, Samuel Umtiti
+Casse la démarche comme Samuel, Samuel Umtiti
+Casse la démarche comme Samuel, Samuel Umtiti
+Casse la démarche comme Samuel, Samuel Umtiti
+Et si y'a drah on peut toujours appeler Benjamin Mendy
+Et si y'a drah on peut toujours appeler Benjamin Mendy
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après c'est le moment
+Allez les bleus, allez
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après on est champion
+Allez les bleus, allez
+Qui contrôle le terrain? (Matuidi)
+Blaise Matuidi, eh (Matuidi)
+Avec lui on est serein (Matuidi)
+Blaise Matuidi, eh (Matuidi)
+Qui contrôle le terrain? (Matuidi)
+Blaise Matuidi, eh (Matuidi)
+Avec lui on est serein (Matuidi)
+Blaise Matuidi, eh (Matuidi)
+Passement de jambe, crochet à gauche, à droite
+Kylian Mbappé
+Accélération, virgule, petit-pont, frappe
+Kylian Mbappé
+J'sais plus si j'suis gaucher ou droitier
+Je tire des deux pieds, Ousmane Dembélé
+J'sais plus si j'suis gaucher ou droitier
+Je tire des deux pieds, Ousmane Dembélé
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après c'est le moment
+Allez les bleus, allez
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après on est champion
+Allez les bleus, allez
+Mais comment il s'appelle? Kanté
+N'golo, N'golo Kanté
+Mais comment il s'appelle? Kanté
+N'golo, N'golo Kanté
+Mais comment il s'appelle? Kanté
+N'golo, N'golo Kanté
+Comment il s'appelle? Kanté
+N'golo, N'golo Kanté
+Maestro Kimpembe, Kimpembe, Kimpembe, Kimpembe
+Kimpembe, Kimpembe, Kimpembe
+Le milieu est assuré
+Attaquant, défense
+Paulo, Paulo Paul Pogba
+La Pioche Paulo, Paulo Paul Pogba
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après c'est le moment
+Allez les bleus, allez
+Ramenez la coupe à la maison
+Allez les bleus, allez
+20 ans après on est champion
+Allez les bleus, allez
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:55:09.124461 | QGIS#6129 | jek trans Gymnopedies
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:55:34.234818 | pp4rosie#2007 | jek trans gynasio
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:55:41.530976 | QGIS#6129 | jek trans Arabesque
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:55:51.284745 | pp4rosie#2007 | jek trans Arabe
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:56:19.345441 | QGIS#6129 | jek trans Nocturne
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:56:45.095595 | pp4rosie#2007 | jek trans Moustique mousquete
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:56:50.183258 | QGIS#6129 | jek trans Claire De Lune
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:57:12.850519 | pp4rosie#2007 | jek trans moustique mousquetaire
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:57:35.897403 | QGIS#6129 | jek trans Mariage d'Amour
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:57:49.677785 | pp4rosie#2007 | jek trans la vie en rose
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:57:59.320635 | QGIS#6129 | jek trans pseudonym
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:58:46.919063 | QGIS#6129 | jek trans Four Seasons ~ Vivaldi
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:59:16.744618 | QGIS#6129 | jek trans Ode to Joy
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 21:59:50.684723 | pp4rosie#2007 | jek trans entendez-vous dans les campagnes, mugir ces feroces soldats. ils viennent jusque dans nos bras, égorgez nos fils et nos compagnes.
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:00:11.718982 | QGIS#6129 | jek trans Komm, süsser Tod
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:00:35.459144 | pp4rosie#2007 | jek trans papa ou t'es
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:00:39.071365 | QGIS#6129 | jek trans Neon Genesis
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:00:54.259243 | pp4rosie#2007 | jek trans 南非
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:01:07.547508 | QGIS#6129 | jek trans  Neon-Genesis
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:01:26.774367 | QGIS#6129 | jek trans The Gospel
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:01:37.238488 | pp4rosie#2007 | jek trans 脸皮薄学不到，脸皮厚学个够
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:02:02.595823 | pp4rosie#2007 | jek trans sussy baka
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:02:19.722670 | pp4rosie#2007 | jek trans 肏你妈
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:02:33.370872 | pp4rosie#2007 | jek trans 操你妈
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:02:57.802040 | QGIS#6129 | jek trans bioluminescent
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:03:07.462356 | pp4rosie#2007 | jek trans bioluminescente
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:03:19.940201 | pp4rosie#2007 | jek trans la tour
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:03:24.544048 | pp4rosie#2007 | jek trans le tour
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:03:35.629795 | QGIS#6129 | jek trans Meditation from Thais
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:04:44.779021 | pp4rosie#2007 | jek trans 暹罗百丽宫
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:04:57.356752 | QGIS#6129 | jek trans Meditation de Thais
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:05:30.473412 | pp4rosie#2007 | jek trans 正大集团
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:05:48.877414 | pp4rosie#2007 | jek trans 腾讯
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:06:14.360007 | QGIS#6129 | jek trans Luminous Valentine
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:06:17.428453 | pp4rosie#2007 | jek trans 麦当劳 肯德基
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:06:41.401049 | QGIS#6129 | jek trans Heterochromia
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:06:56.006983 | pp4rosie#2007 | jek trans 温泉
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:07:03.358349 | QGIS#6129 | jek trans Octagram
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:07:12.007295 | pp4rosie#2007 | jek trans 八角形
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:07:21.278834 | QGIS#6129 | jek trans Octagram Soars Brightly
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:07:51.797492 | QGIS#6129 | jek trans Walpurgis
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:07:57.148284 | pp4rosie#2007 | jek trans 月亮代表我的心
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:08:11.484979 | pp4rosie#2007 | jek trans 失恋阵线联盟
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:08:23.095102 | QGIS#6129 | jek trans 콘트라베이스 최준혁_이탈리아여행 중 거리연주가들과 함께 즉흥연주
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:08:28.821846 | pp4rosie#2007 | jek trans 每当变幻时
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:08:40.085231 | QGIS#6129 | jek play https://www.youtube.com/watch?v=7t3xBqAWLaU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:08:57.637279 | pp4rosie#2007 | jek trans os carros
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:09:14.345444 | pp4rosie#2007 | jek trans dites non au racisme
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:09:22.608540 | QGIS#6129 | jek trans Tensei Shitara Slime datta ken
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:09:39.074885 | pp4rosie#2007 | jek trans kumoko desu ga, nani ka?
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:10:13.169316 | pp4rosie#2007 | jek trans 汤姆和杰瑞
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:10:34.918561 | pp4rosie#2007 | jek trans 蜡笔小新
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:11:09.462826 | pp4rosie#2007 | jek trans 俄罗斯
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:11:29.401209 | QGIS#6129 | jek trans Merazophis
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:11:38.043336 | pp4rosie#2007 | jek trans 同志们好
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:11:51.282231 | pp4rosie#2007 | jek trans 同志们辛苦了
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:12:36.474600 | pp4rosie#2007 | jek trans 罗伯特 卡洛斯
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:12:44.350003 | QGIS#6129 | jek trans Prolepsis
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:13:15.721196 | pp4rosie#2007 | jek trans 马克
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:13:30.309475 | pp4rosie#2007 | jek trans 马科
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:14:00.932420 | pp4rosie#2007 | jek trans quand il me prend dans ses bras, il me parle tout bas. je vois la vie en rose
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:14:38.651630 | pp4rosie#2007 | jek trans il me dit des mots d'amour, des mots de tous les jours. et ca me fait quelque chose
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:14:53.879922 | pp4rosie#2007 | jek trans que hoje vai rolar
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:15:17.236393 | pp4rosie#2007 | jek trans ole jetzt kommt der bvb
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-20 22:15:40.121017 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=AUmaQsltI0I
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 14:35:28.606643 | QGIS#6129 | jek wow
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 14:35:44.567132 | QGIS#6129 | jek แปล | No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. -Josh Waitzkin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 14:36:09.905427 | QGIS#6129 | jek what | No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. -Josh Waitzkin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 15:12:41.028901 | QGIS#6129 | jek meaning Thrasymachus
+[command] Kanoon’s Best Amigos | 2021-10-21 15:29:00.292462 | ....#6809 | jek spam <@!381738460295200769>
+[command] Kanoon’s Best Amigos | 2021-10-21 16:11:56.406633 | ....#6809 | jek play https://www.youtube.com/watch?v=H_1bYgbU5Cw
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 16:12:34.142662 | QGIS#6129 | jek trans ดิ | D’autres croient que la victoire exige de la stratégie et une maîtrise de la garniture.
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 16:12:52.740074 | QGIS#6129 | jek what | D’autres croient que la victoire exige de la stratégie et une maîtrise de la garniture.
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 16:15:02.416721 | QGIS#6129 | jek what is this shit | Et qui ne le croit pas?
+[command] Kanoon’s Best Amigos | 2021-10-21 16:26:30.369931 | zearthz#2243 | jek play https://youtu.be/o27UbkSS1VY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 19:55:49.688302 | QGIS#6129 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 19:56:29.107582 | QGIS#6129 | jek play Amoungusss
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 19:56:54.892806 | QGIS#6129 | jek play https://www.youtube.com/watch?v=QmrU4GIdtn8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 20:00:14.213994 | QGIS#6129 | jek boo
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 20:02:38.060557 | QGIS#6129 | jek adveq 10 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 20:02:50.302036 | QGIS#6129 | jek adveq 5 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 20:02:58.240057 | pp4rosie#2007 | jek adveq 1 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-21 20:04:49.320703 | pp4rosie#2007 | jek play https://open.spotify.com/track/46aNEE4e98XnSOZlW7ROid?si=3a2df7d0fe0e47d6
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:23:27.072002 | QGIS#6129 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:24:15.340390 | QGIS#6129 | jek play piano sonata op 16 in C minor
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:00.438845 | QGIS#6129 | jek adveq 4 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:22.993184 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:32.434692 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:46.965827 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:51.050291 | QGIS#6129 | jek play I thoug you were gay
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:25:52.637103 | pp4rosie#2007 | jek bassboost
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:05.051104 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:09.138845 | QGIS#6129 | jek adveq 5 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:11.762717 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:19.243771 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:19.642622 | QGIS#6129 | jek resume
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:25.114114 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:26:28.244998 | pp4rosie#2007 | jek refresh
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:27:29.853252 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:27:35.491754 | pp4rosie#2007 | jek queue
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:27:50.350867 | QGIS#6129 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:27:54.019950 | QGIS#6129 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:28:01.608249 | pp4rosie#2007 | jek play
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:28:08.024186 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:28:12.978924 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:09.117581 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:23.554218 | pp4rosie#2007 | jek adveq 1 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:41.255896 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:52.839043 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:54.866831 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:29:57.259755 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:33:12.104966 | pp4rosie#2007 | jek play jetzt kommt der bvb
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:34:00.272244 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:34:10.404977 | pp4rosie#2007 | jek play ole jetzt kommt der bvb
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:34:49.732108 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=AUmaQsltI0I
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:35:06.000804 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=APdC_YhkSd4&t=31s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:35:30.497733 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:39:18.169264 | pp4rosie#2007 | jek play https://youtu.be/J2M5ib5p2ec
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:39:23.909621 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:39:27.740307 | pp4rosie#2007 | jek play https://youtu.be/J2M5ib5p2ec
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:39:33.821928 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:39:36.158023 | pp4rosie#2007 | jek play https://youtu.be/J2M5ib5p2ec
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:40:10.346087 | pp4rosie#2007 | jek play https://youtu.be/8UEpNzTc-dI
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:40:50.272623 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:43:40.030729 | pp4rosie#2007 | jek play heja bvb
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:46:25.790159 | pp4rosie#2007 | jek play https://youtu.be/PNABrf_ECg8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:46:27.349231 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:47:02.376039 | pp4rosie#2007 | jek no bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:47:05.423719 | pp4rosie#2007 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:48:28.473857 | pp4rosie#2007 | jek play https://youtu.be/pzGW1lfLjtY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:48:40.850445 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:48:42.507451 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:48:45.893992 | pp4rosie#2007 | jek play https://youtu.be/pzGW1lfLjtY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:52:42.570473 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=DjY0XL8g7_o
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:56:07.150881 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=d-hT4XAPrrU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 10:57:42.816577 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=XdwI-2Ner7A
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:01:56.549676 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=nXupaZbaams
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:12:22.541720 | pp4rosie#2007 | jek play https://youtu.be/XVhNSl9lllo
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:16:27.860173 | pp4rosie#2007 | jek play https://youtu.be/fG5ktdCndpU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:19:04.586048 | pp4rosie#2007 | jek play https://youtu.be/26a3UH9Rl0U
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:19:06.474974 | QGIS#6129 | jek play WHAT IF CHOIR
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:24:57.928844 | pp4rosie#2007 | jek play 起来饥寒交迫的奴隶
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:30:14.510274 | pp4rosie#2007 | jek play https://youtu.be/wW2n3umJuaE
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:34:50.502779 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=GcTAQcI4pY8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:35:05.838272 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:36:11.216813 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:36:23.364523 | pp4rosie#2007 | jek pause
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:36:27.234266 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:36:29.967529 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 11:36:33.258360 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=GcTAQcI4pY8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 12:03:46.455346 | pp4rosie#2007 | jek play ussr anthem
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 12:04:00.525833 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 12:04:02.288781 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 12:04:08.469167 | pp4rosie#2007 | jek play ussr anthem
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 12:04:18.788746 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:40:19.286144 | QGIS#6129 | jek p fly me to the moon patick 1 hr
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:40:34.095756 | QGIS#6129 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:40:37.988755 | QGIS#6129 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:40:41.940654 | QGIS#6129 | jek p jek p fly me to the moon patick 1 hr
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:41:10.320472 | QGIS#6129 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 13:50:48.569325 | แว่นแดง#5640 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:09:35.898172 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:09:44.392622 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:09:48.887928 | pp4rosie#2007 | jek play https://open.spotify.com/track/46aNEE4e98XnSOZlW7ROid?si=92e766f5c50a4f7a
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:09:59.189337 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:10:02.227049 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:10:04.986078 | pp4rosie#2007 | jek play https://open.spotify.com/track/46aNEE4e98XnSOZlW7ROid?si=92e766f5c50a4f7a
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:10:26.878044 | pp4rosie#2007 | jek play 每当变幻时 王闻
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:10:42.620494 | pp4rosie#2007 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:10:50.628770 | แว่นแดง#5640 | jek looping
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:11:00.400041 | แว่นแดง#5640 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:11:09.169233 | pp4rosie#2007 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:11:14.260399 | แว่นแดง#5640 | jek loob
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:11:17.781109 | แว่นแดง#5640 | jek roob
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:11:21.604893 | แว่นแดง#5640 | jek roop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:12:03.938255 | pp4rosie#2007 | jek play you make me back acoustic version
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:14:42.548228 | pp4rosie#2007 | jek play perfect version francaise
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:21:15.442848 | pp4rosie#2007 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:21:19.064158 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:21:22.344950 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:21:25.420231 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:21:42.050990 | pp4rosie#2007 | jek play ramenez la coupe a la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:25:28.093257 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=g7f6pHtis4o
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:30:31.654868 | pp4rosie#2007 | jek play balada boa
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:33:22.292357 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=dzsuE5ugxf4
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:35:04.053809 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:35:07.200148 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:35:09.967146 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=dzsuE5ugxf4
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:41:29.430159 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=-befR4wHsjQ
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:41:40.503949 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:41:43.267684 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=-befR4wHsjQ
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:44:37.252216 | pp4rosie#2007 | jek play https://youtu.be/nf0ZIdtNPQY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:44:44.750330 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:45:15.910809 | pp4rosie#2007 | jek bass
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:49:07.722437 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=WxrQ3SqSt6Q
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:50:45.002019 | pp4rosie#2007 | jek play idol bts
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:52:40.502960 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:52:44.780057 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=WxrQ3SqSt6Q
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:53:02.774128 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:53:04.859169 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:53:23.734683 | pp4rosie#2007 | jek play idol bts
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:53:39.043319 | pp4rosie#2007 | jek play idol bts
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:53:46.915692 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:54:04.056815 | pp4rosie#2007 | jek c
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:54:32.777156 | pp4rosie#2007 | jek bass 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:54:46.558679 | pp4rosie#2007 | jek bass 5
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:55:14.914506 | pp4rosie#2007 | jek bass 6
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:55:30.041279 | pp4rosie#2007 | jek bass 3
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:56:59.136989 | pp4rosie#2007 | jek volume 200
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:57:05.531284 | pp4rosie#2007 | jek volume 150
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:57:37.817123 | pp4rosie#2007 | jek volume 100
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:57:49.693219 | pp4rosie#2007 | jek play i'm fine bts
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:58:33.672928 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=dyXhcS04MVY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:58:48.264411 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:58:51.908040 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:58:56.192833 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=dyXhcS04MVY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:59:03.435151 | pp4rosie#2007 | jek c
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 14:59:19.303513 | pp4rosie#2007 | jek volume 75
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:00:32.859773 | pp4rosie#2007 | jek volume 112
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:02:19.519675 | pp4rosie#2007 | jek volume 100
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:10:27.027627 | pp4rosie#2007 | jek play 星 邓丽君
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:10:47.852842 | pp4rosie#2007 | jek c
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:12:07.360004 | pp4rosie#2007 | jek volume 120
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:15:44.489709 | pp4rosie#2007 | jek play 把我的爱情还给我
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:16:11.769919 | pp4rosie#2007 | jek volume 100
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:21:07.509152 | pp4rosie#2007 | jek play aux champs elysees
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:24:04.778820 | pp4rosie#2007 | jek play ue wo muite arukou
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:28:54.578558 | pp4rosie#2007 | jek play what is life
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:35:17.399658 | pp4rosie#2007 | jek play real love
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 15:35:28.755909 | pp4rosie#2007 | jek play real love beatles
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 16:12:59.632984 | แว่นแดง#5640 | jek play https://youtu.be/_1uo0c5zltE
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 16:13:28.088242 | pp4rosie#2007 | jek bass 10
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 16:13:43.747329 | pp4rosie#2007 | jek volume 150
+[command] Kanoon’s Best Amigos | 2021-10-22 16:17:40.318354 | zearthz#2243 | jek play https://youtu.be/HR5zpFs7YpY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 16:18:53.294685 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 16:26:59.843140 | ....#6809 | jek spam <@!585609685651161098>
+[command] Kanoon’s Best Amigos | 2021-10-22 16:30:02.129299 | pp4rosie#2007 | jek play sicko mode
+[command] Kanoon’s Best Amigos | 2021-10-22 16:30:05.673281 | pp4rosie#2007 | jek bass 10
+[command] Kanoon’s Best Amigos | 2021-10-22 16:30:14.553681 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 16:32:05.038826 | pp4rosie#2007 | jek volume 150
+[command] Kanoon’s Best Amigos | 2021-10-22 16:33:21.267002 | zearthz#2243 | jek play https://youtu.be/tD1SF-enc9U
+[command] Kanoon’s Best Amigos | 2021-10-22 16:33:51.852330 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 16:34:04.631930 | pp4rosie#2007 | jek bass 5
+[command] Kanoon’s Best Amigos | 2021-10-22 17:16:44.069425 | pp4rosie#2007 | jek play https://youtu.be/PNABrf_ECg8
+[command] Kanoon’s Best Amigos | 2021-10-22 17:16:49.079157 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 17:38:59.151082 | lordstone#8830 | jek play https://youtu.be/W8x4m-qpmJ8
+[command] Kanoon’s Best Amigos | 2021-10-22 17:39:15.453870 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 17:40:29.896372 | pp4rosie#2007 | jek bass 10
+[command] Kanoon’s Best Amigos | 2021-10-22 17:40:40.340930 | pp4rosie#2007 | jek volume 150
+[command] Kanoon’s Best Amigos | 2021-10-22 17:41:25.341798 | pp4rosie#2007 | jek c
+[command] Kanoon’s Best Amigos | 2021-10-22 17:41:33.327779 | pp4rosie#2007 | jek volume 100
+[command] Kanoon’s Best Amigos | 2021-10-22 17:44:12.981902 | pp4rosie#2007 | jek play alien dance
+[command] Kanoon’s Best Amigos | 2021-10-22 17:44:47.360555 | pp4rosie#2007 | jek play https://youtu.be/TRc85qoNo6w
+[command] Kanoon’s Best Amigos | 2021-10-22 17:44:53.750484 | pp4rosie#2007 | jek c
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-22 18:51:44.468531 | pp4rosie#2007 | jek cringe
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-23 14:58:46.982047 | QGIS#6129 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-23 21:21:30.214078 | QGIS#6129 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-23 21:21:56.066973 | QGIS#6129 | jek ว้าว
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:09:47.981779 | แว่นแดง#5640 | jek what | 旧戏新做 化作传奇 最易惹乐与悲 最难判是与非 又甜又苦全是戏
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:20:48.195756 | pp4rosie#2007 | jek what | 床前明月光
+疑是地上霜
+举头望明月
+低头思故乡
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:21:09.577671 | pp4rosie#2007 | jek what | Gata, me liga, mais tarde tem balada
+Quero curtir com você na madrugada
+Dançar, pular até o sol raiar
+Gata, me liga, mais tarde tem balada
+Quero curtir com você na madrugada
+Dançar, pular que hoje vai rolar
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:34:18.726917 | pp4rosie#2007 | jek what | 床前明月光，疑是地上霜，举头望明月，低头思故乡。
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:51:49.692957 | QGIS#6129 | jek what | a glass walled rentengular channal
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 10:57:02.602338 | pp4rosie#2007 | jek what | N'oubliez pas de m'inscriver et partager mes vidéos. Merci d'avoir regardé, passez une bonne journée. A la prochaine fois!
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:21:25.027833 | QGIS#6129 | jek ym_trigger ยม
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:21:37.476949 | pp4rosie#2007 | jek ym_trigger ยม
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:24:19.668049 | pp4rosie#2007 | jek chelsea next
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:25:47.356205 | QGIS#6129 | jek live บอล
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:26:16.028094 | QGIS#6129 | jek live ball สด
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:31:03.485298 | QGIS#6129 | jek sperm
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 12:36:01.959547 | QGIS#6129 | jek set alarm 22.30
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 13:41:45.356433 | QGIS#6129 | jek p mozart requiem
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 13:42:46.362546 | QGIS#6129 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 13:45:56.086620 | QGIS#6129 | jek p liebesfreud
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 15:32:31.820424 | ชิซุกะอยากต่อยกับมึง#5730 | jek ควย
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 15:32:38.225332 | ชิซุกะอยากต่อยกับมึง#5730 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 17:36:18.560201 | pp4rosie#2007 | jek match 2021-10-27
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 18:47:13.558448 | pp4rosie#2007 | jek play ramenez la coupe a la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 19:15:47.599122 | QGIS#6129 | jek p minecraft dont mine at night
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 19:16:36.884824 | pp4rosie#2007 | jek play ils sont les meilleurs
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-24 19:21:47.056827 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 12:50:00.117983 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:27:24.213252 | pp4rosie#2007 | jek play envole-moi à la lune
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:28:55.870855 | pp4rosie#2007 | jek play volons vers la lune
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:33:14.236103 | pp4rosie#2007 | jek play https://youtu.be/d-hT4XAPrrU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:35:29.052178 | pp4rosie#2007 | jek play https://youtu.be/K0__wx7s4jc
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:38:01.170830 | pp4rosie#2007 | jek play https://youtu.be/ouvcWgg5kIY
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 16:48:37.845520 | pp4rosie#2007 | jek play https://youtu.be/PNABrf_ECg8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:02:06.183633 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:06:03.158140 | pp4rosie#2007 | jek play hala madrid
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:11:08.487959 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:11:08.929944 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:11:18.622826 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:11:40.618942 | QGIS#6129 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:12:01.351618 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:12:14.466079 | pp4rosie#2007 | jek bet 0.000000000000000000000000000000000000000000000000001
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:12:20.079580 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:15:04.013594 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:15:20.079761 | pp4rosie#2007 | jek bet 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:15:30.310023 | pp4rosie#2007 | jek bet 1
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:15:33.471017 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:15:59.890427 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:17:06.498040 | pp4rosie#2007 | jek bet 200
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:17:48.739422 | pp4rosie#2007 | jek bet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:17:56.499260 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:17:56.527759 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:18:30.613906 | แว่นแดง#5640 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:18:36.662163 | แว่นแดง#5640 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:44:02.147644 | pp4rosie#2007 | jek play https://youtu.be/XK_RkH7aHb8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:45:13.008109 | pp4rosie#2007 | jek play dortmund goal song
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:45:34.197544 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=AUmaQsltI0I
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:54:34.640551 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:54:41.625221 | QGIS#6129 | jek bet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:54:49.609364 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:55:09.457194 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 17:55:20.789382 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 18:03:04.695143 | QGIS#6129 | jek wallet]
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 18:03:11.832793 | QGIS#6129 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 18:03:22.019659 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:32:40.087291 | pp4rosie#2007 | jek play balada boa
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:32:54.219942 | pp4rosie#2007 | jek play gusttavo lima balada boa
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:36:58.079082 | pp4rosie#2007 | jek play ce sont les meilleurs equipes
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:37:02.844005 | QGIS#6129 | jek match\
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:37:06.214892 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:37:16.354262 | QGIS#6129 | jek score
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:54:56.139626 | pp4rosie#2007 | jek play เต้นระบำบำบำ
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 19:58:38.220741 | pp4rosie#2007 | jek play can't tell me nuttin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:00:38.450101 | pp4rosie#2007 | jek play do you
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:03:54.376191 | pp4rosie#2007 | jek play do you bambam
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:06:48.233540 | pp4rosie#2007 | jek play ฝนตกไหม
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:08:34.145165 | pp4rosie#2007 | jek play ฝนตกไหม
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:08:56.787953 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:09:17.614666 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:09:27.641040 | pp4rosie#2007 | jek play ฝนตกไหม
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:27:07.725679 | pp4rosie#2007 | jek bastille pompeii
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:27:15.298479 | pp4rosie#2007 | jek play bastille pompeii
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:32:54.604057 | pp4rosie#2007 | jek play animals martin garrix
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:36:21.081645 | pp4rosie#2007 | jek play https://youtu.be/x84m3YyO2oU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:40:39.379070 | pp4rosie#2007 | jek play https://youtu.be/tmnYHu4BoE8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-25 20:44:20.007644 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 09:51:08.878461 | QGIS#6129 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 09:51:31.656803 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 10:13:33.030144 | แว่นแดง#5640 | jek p https://www.youtube.com/watch?v=IVRockzYQKY&t=1s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 10:32:05.709393 | แว่นแดง#5640 | jek play https://www.youtube.com/watch?v=COIJIq-9nzw
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 11:41:29.200402 | pp4rosie#2007 | jek play https://youtu.be/6Hbq4xiW-Fo
+[command] Kanoon’s Best Amigos | 2021-10-26 12:16:36.375407 | zearthz#2243 | jek play https://youtu.be/550qj1PZ0O8
+[command] Kanoon’s Best Amigos | 2021-10-26 12:17:03.599416 | pleumpwr#4479 | jek play เท่ง Lamar
+[command] Kanoon’s Best Amigos | 2021-10-26 12:24:24.529258 | zearthz#2243 | jek play https://youtu.be/p-sdBJ5WkkU
+[command] Kanoon’s Best Amigos | 2021-10-26 12:25:06.631953 | zearthz#2243 | jek play https://youtu.be/DE_ZQIkQhDs
+[command] Kanoon’s Best Amigos | 2021-10-26 12:37:22.727221 | pleumpwr#4479 | jek play https://youtu.be/fz7Jxg7Hbkg
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 12:43:59.219797 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=QTmBxrtrLcM
+[command] Kanoon’s Best Amigos | 2021-10-26 13:19:56.106721 | pleumpwr#4479 | jek play https://www.youtube.com/watch?v=ud2LtH3LW78
+[command] Kanoon’s Best Amigos | 2021-10-26 13:21:31.824184 | zearthz#2243 | jek play https://youtu.be/uQkAvzsl2zQ
+[command] Kanoon’s Best Amigos | 2021-10-26 13:21:46.019066 | pp4rosie#2007 | jek match
+[command] Kanoon’s Best Amigos | 2021-10-26 13:21:52.519013 | pp4rosie#2007 | jek wallet
+[command] Kanoon’s Best Amigos | 2021-10-26 13:21:55.971073 | pp4rosie#2007 | jek bet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 13:38:36.962377 | pp4rosie#2007 | jek play roja baila
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 13:41:39.320181 | pp4rosie#2007 | jek play il himno de italia
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 13:44:24.199652 | pp4rosie#2007 | jek play les champs elysees
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 13:47:52.115930 | pp4rosie#2007 | jek play ils sont les meilleurs
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 13:51:05.487129 | pp4rosie#2007 | jek play ole jetzt kommt der bvb
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:01:27.809906 | pp4rosie#2007 | jek play https://youtu.be/k9J6rFWTfVA
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:01:48.324254 | pp4rosie#2007 | jek c
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:01:52.809854 | pp4rosie#2007 | jek loop
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:04:54.575348 | pp4rosie#2007 | jek play https://youtu.be/DakhDmWj-Dw
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:07:02.209995 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=SIxOl1EraXA
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:07:29.925905 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:07:32.286975 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:07:40.742355 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=SIxOl1EraXA
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:13:18.855224 | pp4rosie#2007 | jek play andrea bocelli la vie en rose
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:13:41.065472 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:13:42.919297 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:13:51.975741 | pp4rosie#2007 | jek play la vie en rose andrea bocelli
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:14:33.949066 | pp4rosie#2007 | jek play volons vers la lune
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:20:57.896371 | QGIS#6129 | jek p fly me to the oon patick
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:21:23.761200 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:21:31.082307 | pp4rosie#2007 | jek play llevame a la luna
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:21:48.276045 | QGIS#6129 | jek p fly me to the moon patick
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:22:36.041141 | pp4rosie#2007 | jek play https://youtu.be/_68iIVp22hk
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:29:29.034388 | pp4rosie#2007 | jek ramenez la coupe à la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:29:46.226775 | pp4rosie#2007 | jek play ramenez la coupe à la maison
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:34:17.876308 | pp4rosie#2007 | jek play balada boa gusttavo lima
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:36:43.854961 | pp4rosie#2007 | jek play despacitro
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:41:13.929107 | pp4rosie#2007 | jek play https://youtu.be/87gWaABqGYs
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 14:44:45.170529 | pp4rosie#2007 | jek play peaches
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 16:00:43.619904 | QGIS#6129 | jek play Exquisite Dinner Almost Here
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 16:35:41.703935 | pp4rosie#2007 | jek play never say never
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 16:36:01.347275 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=d523r1p1qTo
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 16:54:52.527488 | แว่นแดง#5640 | jek p hala madrid
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 16:55:51.430296 | pp4rosie#2007 | jek play roja baila
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:02:09.352540 | pp4rosie#2007 | jek play a miuda gosta
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:06:09.645351 | pp4rosie#2007 | jek play 失恋阵线联盟
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:09:21.655487 | pp4rosie#2007 | jek play canto del barca
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:09:36.441948 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:19:34.197726 | QGIS#6129 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:19:57.378815 | แว่นแดง#5640 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:20:30.715430 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 17:20:51.609082 | QGIS#6129 | jek bet 500
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-26 18:07:58.006525 | pp4rosie#2007 | jek play https://youtu.be/lZqbgn3SvmU
+[command] Kanoon’s Best Amigos | 2021-10-27 14:42:23.744497 | zearthz#2243 | jek play https://youtu.be/17e1tuXntjQ
+[command] Kanoon’s Best Amigos | 2021-10-27 15:01:39.759807 | zearthz#2243 | jek play https://youtu.be/BiNeC0zRrFs
+[command] Kanoon’s Best Amigos | 2021-10-27 15:04:57.803116 | pleumpwr#4479 | jek play คนชอบหมี
+[command] Kanoon’s Best Amigos | 2021-10-27 15:05:18.530870 | pleumpwr#4479 | jek play คนชอบหมี
+[command] Kanoon’s Best Amigos | 2021-10-27 15:05:36.616025 | pp4rosie#2007 | jek what | 笨
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 15:08:31.672902 | pp4rosie#2007 | jek help
+[command] Kanoon’s Best Amigos | 2021-10-27 15:09:00.746370 | pp4rosie#2007 | jek ym_trigger ควย
+[command] Kanoon’s Best Amigos | 2021-10-27 15:09:19.993826 | pleumpwr#4479 | jek what
+[command] Kanoon’s Best Amigos | 2021-10-27 15:09:30.682681 | pleumpwr#4479 | jek ว๊าว
+[command] Kanoon’s Best Amigos | 2021-10-27 15:10:02.772515 | pp4rosie#2007 | jek ym_trigger ควย
+[command] Kanoon’s Best Amigos | 2021-10-27 15:10:18.189452 | pp4rosie#2007 | jek ym_trigger
+[command] Kanoon’s Best Amigos | 2021-10-27 15:11:05.006067 | pp4rosie#2007 | jek random ไปเล่นบาสกับไอ้เอิด ไม่ไป
+[command] Kanoon’s Best Amigos | 2021-10-27 15:11:26.126714 | pp4rosie#2007 | jek random ไปเล่นบาส ไม่ไปเล่นบาส
+[command] Kanoon’s Best Amigos | 2021-10-27 15:11:50.076904 | pp4rosie#2007 | jek random ไม่ไปเล่นบาส ไปเล่นบาส
+[command] Kanoon’s Best Amigos | 2021-10-27 15:12:05.283000 | pp4rosie#2007 | jek random ไม่ไปเล่นบาส ไปเล่นบาส
+[command] Kanoon’s Best Amigos | 2021-10-27 15:17:28.349568 | pp4rosie#2007 | jek random ซิมม่อนใจกาก ซิมม่อนMVP
+[command] Kanoon’s Best Amigos | 2021-10-27 15:18:34.740420 | pp4rosie#2007 | jek random ปลื้มสมองเน่า ปลื้มสมองบูด ปลื้มสมองเรื้อน ปลื้มสมองดี
+[command] Kanoon’s Best Amigos | 2021-10-27 15:19:07.905365 | pp4rosie#2007 | jek random พูดจริง โกหก
+[command] Kanoon’s Best Amigos | 2021-10-27 15:19:13.705131 | zearthz#2243 | jek random ใช่อ่อ
+[command] Kanoon’s Best Amigos | 2021-10-27 15:21:11.501090 | pleumpwr#4479 | jek random ไชยัน เข็มทอง ชลทิศ
+[command] Kanoon’s Best Amigos | 2021-10-27 15:21:44.653280 | zearthz#2243 | jek random แตก ไม่แตก
+[command] Kanoon’s Best Amigos | 2021-10-27 15:22:30.567389 | zearthz#2243 | jek random มือ หำ
+[command] Kanoon’s Best Amigos | 2021-10-27 15:22:41.097016 | pp4rosie#2007 | jek random ควยเหลือ1นิ้ว ควยเหลือ3นิ้ว ควยขยาย50นิ้ว ควยเหลือ2นิ้ว
+[command] Kanoon’s Best Amigos | 2021-10-27 15:24:35.091235 | zearthz#2243 | jek play https://youtu.be/X_GoyOCzK9Y
+[command] Kanoon’s Best Amigos | 2021-10-27 15:24:43.197628 | pp4rosie#2007 | jek random ทำเปเปอร์เสด23.59 ทำเปเปอร์เสดก่อน6ชม ทำเปเปอร์เสดก่อน12ชม
+[command] Kanoon’s Best Amigos | 2021-10-27 15:32:20.676851 | pp4rosie#2007 | jek play la vie en rose andrea bocelli
+[command] Kanoon’s Best Amigos | 2021-10-27 15:33:11.009183 | pp4rosie#2007 | jek play la marseillaise mireille mathieu
+[command] Kanoon’s Best Amigos | 2021-10-27 15:39:09.223963 | zearthz#2243 | jek play https://youtu.be/Ueibw7AdCmI
+[command] Kanoon’s Best Amigos | 2021-10-27 15:39:13.993239 | pp4rosie#2007 | jek play ramenez la coupe a la maison
+[command] Kanoon’s Best Amigos | 2021-10-27 15:44:45.857855 | lordstone#8830 | jek play https://youtu.be/x6QZn9xiuOE
+[command] Kanoon’s Best Amigos | 2021-10-27 15:49:49.168307 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] Kanoon’s Best Amigos | 2021-10-27 15:54:18.803788 | zearthz#2243 | jek play https://youtu.be/SU7Jo9gmTOQ
+[command] Kanoon’s Best Amigos | 2021-10-27 15:58:42.914139 | pp4rosie#2007 | jek play good time bad time
+[command] Kanoon’s Best Amigos | 2021-10-27 15:58:57.616011 | pp4rosie#2007 | jek play good time bad time led zeppelin
+[command] Kanoon’s Best Amigos | 2021-10-27 15:59:42.328868 | pp4rosie#2007 | jek play immigrant song
+[command] Kanoon’s Best Amigos | 2021-10-27 16:01:05.669439 | zearthz#2243 | jek play https://youtu.be/bmwlQKqaz8Q
+[command] Kanoon’s Best Amigos | 2021-10-27 16:06:59.848736 | pp4rosie#2007 | jek play https://youtu.be/oFJIenHfjK0
+[command] Kanoon’s Best Amigos | 2021-10-27 16:13:12.716844 | zearthz#2243 | jek play https://youtu.be/ta8hbYJTPlk
+[command] Kanoon’s Best Amigos | 2021-10-27 16:14:56.644657 | pleumpwr#4479 | jek bet
+[command] Kanoon’s Best Amigos | 2021-10-27 16:15:07.011361 | pleumpwr#4479 | jek wallet
+[command] Kanoon’s Best Amigos | 2021-10-27 16:15:12.160263 | pleumpwr#4479 | jek bet
+[command] Kanoon’s Best Amigos | 2021-10-27 16:15:30.672430 | pleumpwr#4479 | jek bet amount
+[command] Kanoon’s Best Amigos | 2021-10-27 16:15:41.112261 | pleumpwr#4479 | jek bet amount 500
+[command] Kanoon’s Best Amigos | 2021-10-27 16:16:43.519109 | zearthz#2243 | jek play https://youtu.be/EkHTsc9PU2A
+[command] Kanoon’s Best Amigos | 2021-10-27 16:17:07.196484 | pp4rosie#2007 | jek play the coconut song
+[command] Kanoon’s Best Amigos | 2021-10-27 16:20:03.794321 | zearthz#2243 | jek play https://youtu.be/fLexgOxsZu0
+[command] Kanoon’s Best Amigos | 2021-10-27 16:23:24.421070 | pp4rosie#2007 | jek wallet
+[command] Kanoon’s Best Amigos | 2021-10-27 16:23:27.969863 | pp4rosie#2007 | jek claim
+[command] Kanoon’s Best Amigos | 2021-10-27 16:24:07.896795 | zearthz#2243 | jek play https://youtu.be/s4Hwja-dK-c
+[command] Kanoon’s Best Amigos | 2021-10-27 16:28:20.307703 | zearthz#2243 | jek play https://youtu.be/2_vDjaED4Io
+[command] Kanoon’s Best Amigos | 2021-10-27 16:33:00.050642 | zearthz#2243 | jek play https://youtu.be/iXn61SWLJ8Y
+[command] Kanoon’s Best Amigos | 2021-10-27 16:47:57.153359 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=zdgemowocu8
+[command] Kanoon’s Best Amigos | 2021-10-27 16:56:47.940686 | pp4rosie#2007 | jek play tout doucement
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:04:02.602748 | QGIS#6129 | Jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:07:53.061303 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:09:01.095910 | QGIS#6129 | Jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:21:04.090070 | pp4rosie#2007 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:21:32.407667 | pp4rosie#2007 | jek wallet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:22:18.208410 | pp4rosie#2007 | jek play songs for studying
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:26:58.685260 | QGIS#6129 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:27:23.314229 | QGIS#6129 | jek bet
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:27:49.643233 | QGIS#6129 | jek bet 250
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:28:07.445621 | pp4rosie#2007 | jek bet 200
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:36:40.743768 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 17:37:24.634061 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ldn9-y2mLy4
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 18:27:48.495405 | pp4rosie#2007 | jek play https://youtu.be/2SvQdGOt9kM
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 20:05:29.989060 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ufWR315-NJk
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 20:19:10.854073 | pp4rosie#2007 | jek play roja baila
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 20:23:33.176663 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=E43u7dyjw4U
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 20:25:39.299399 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=VKNhE_trdNw
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 20:57:59.261446 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=KBnJtdgJhSk
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 21:59:03.213389 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=tlQ_ldgWkHM
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-27 22:26:01.568370 | pp4rosie#2007 | jek match
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:36:15.841203 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:36:36.755907 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:36:39.185305 | pp4rosie#2007 | jek jooin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:36:41.371532 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:36:43.528283 | pp4rosie#2007 | jek play https://youtu.be/Qow_XNBCdl0
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:40:24.508204 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:40:28.334173 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:40:33.474654 | pp4rosie#2007 | jek play hala madrid
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:43:46.114445 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:43:54.892181 | pp4rosie#2007 | jek play atletico himno
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:47:37.478489 | pp4rosie#2007 | jek play glory man u
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:47:58.814167 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:48:00.466211 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:48:04.961866 | pp4rosie#2007 | jek play glory man u
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:48:15.334018 | pp4rosie#2007 | jek refresh
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:48:20.987375 | pp4rosie#2007 | jek play glory man u
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:51:31.358977 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=uchOo5HU95s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:52:01.797544 | pp4rosie#2007 | jek clear
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:52:12.056020 | pp4rosie#2007 | jek play blue is the colour
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:53:15.982985 | pp4rosie#2007 | jek leave
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:53:17.694068 | pp4rosie#2007 | jek join
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 05:53:23.948663 | pp4rosie#2007 | jek play blue is the color
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:15:02.191571 | pp4rosie#2007 | jek checkout
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:15:07.496462 | pp4rosie#2007 | jek checkin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:17:52.740679 | แว่นแดง#5640 | jek checkin
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:18:01.235832 | pp4rosie#2007 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:18:14.543106 | pp4rosie#2007 | jek donate <@!381738460295200769> 999
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:18:21.945183 | pp4rosie#2007 | jek help
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:18:37.653724 | pp4rosie#2007 | jek give <@!381738460295200769> 999
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:18:50.936773 | pp4rosie#2007 | jek give <@!381738460295200769> 850
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:19:41.914823 | แว่นแดง#5640 | jek give <@!381738460295200769> 0.01
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:20:03.933262 | pp4rosie#2007 | jek give <@!327835727863873538> 0.005
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:20:32.691767 | pp4rosie#2007 | jek give <@!327835727863873538> 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:20:56.117922 | แว่นแดง#5640 | jek clam
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:21:05.709145 | แว่นแดง#5640 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:21:29.853105 | แว่นแดง#5640 | jek give <@!381738460295200769> 0.0012348
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:21:58.732678 | pp4rosie#2007 | jek give <@!327835727863873538> 0.0000000000068
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:22:13.793982 | แว่นแดง#5640 | jek claim
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:22:51.145707 | pp4rosie#2007 | jek give <@!327835727863873538> ควย
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:30:30.071125 | pp4rosie#2007 | jek play roja baila
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:53:59.374053 | pp4rosie#2007 | jek play roja bailar
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:57:04.277661 | pp4rosie#2007 | jek play https://youtu.be/XK5MEGJa5IQ
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 07:58:22.443857 | pp4rosie#2007 | jek play https://youtu.be/zyaFKnUumAM
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:00:25.156033 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ooRL84SDAys
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:01:51.694651 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:01:54.831785 | pp4rosie#2007 | jek play https://youtu.be/R0vd1njMIOc
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:03:18.544655 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=11csq-eHhag&t=51s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:04:12.696712 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=3RYRJinTbd0&t=162s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:07:08.403714 | pp4rosie#2007 | jek play https://youtu.be/nEyAk4VRxyU
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:10:23.974353 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=_IOEVD1v5-U&t=75s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:13:31.720711 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=pj5-jX5TDgA&t=115s
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:20:56.540633 | pp4rosie#2007 | jek play https://youtu.be/Xufvzj9hsn8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:23:43.788448 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=1edvWDAaOGk
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:25:23.670682 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=HS5ysRRuK3E
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:28:00.587313 | QGIS#6129 | jek play https://www.youtube.com/watch?v=LpEL-C0VLxw&ab_channel=SOMBATCHANNEL
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:28:19.645962 | pp4rosie#2007 | jek play a miuda gosta
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:36:27.679564 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=bkCmZQUWFbE
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 08:52:22.357910 | pp4rosie#2007 | jek skip
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:02:35.954394 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=0vIWoJy2eOg
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:06:10.658301 | pp4rosie#2007 | jek play thousand years bars and melody
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:06:35.958113 | pp4rosie#2007 | jek play hopeful bars and melody
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:10:09.434596 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=MyGNFYYpSVM
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:14:28.506731 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=WxcnmoBVFoo
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:16:06.558955 | pp4rosie#2007 | jek play hala madrid y nada mas
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:19:29.801232 | pp4rosie#2007 | jek play blue is the color
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:20:19.320293 | pp4rosie#2007 | jek play ราชวัลลภ
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:22:43.902714 | pp4rosie#2007 | jek play sawasdee encX
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 09:29:55.600399 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=XL-S6GzjZbc
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 10:12:36.555398 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=EfpQ_hrqZl8
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 10:17:20.709620 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ufPRY4-0C3E
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 10:38:41.304641 | pp4rosie#2007 | jek play https://www.youtube.com/watch?v=ESgSXN_uCV4
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 12:11:43.958741 | pp4rosie#2007 | jek play fifa 19 ucl trailer
+[command] ไม่ขายก๋วยเตี๋ยว | 2021-10-28 12:19:34.908466 | pp4rosie#2007 | jek what | "Quando eu era criança, sempre sonhei em tornar-me um campeão. É preciso determinação. E vontade de vencer. Até mesmo nos momentos mais difíceis, tu tens de continuar a acreditar. Esta é a tua oportunidade de te mostrares ao mundo. Tu és um campeão." - Cristiano Ronaldo dos Santos Aveiro, 2018

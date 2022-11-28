@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 720903,
+            "referee": "Miguel Ortiz",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-14T03:00:00+07:00",
+            "timestamp": 1639425600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 11915,
+                "name": "Estadio Nuevo Mirandilla",
+                "city": "C\u00e1diz"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 724,
+                "name": "Cadiz",
+                "logo": "https://media.api-sports.io/football/teams/724.png",
+                "winner": null
+            },
+            "away": {
+                "id": 715,
+                "name": "Granada CF",
+                "logo": "https://media.api-sports.io/football/teams/715.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

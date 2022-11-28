@@ -1,0 +1,162 @@
+import discord
+from discord.ext import commands
+import json
+from discord_components import Button, ButtonStyle, Select, SelectOption
+from datetime import datetime, timedelta
+
+class Economic(commands.Cog):
+
+    def __init__(self, bot):
+        self.bot = bot
+        self.database = "bet-account.txt"
+
+    def get_wallets(self):
+        with open(self.database) as ba:
+            data = json.loads(ba.read())
+        return data
+
+    def update_wallets(self, data):
+        with open(self.database, 'w') as ba:
+            json.dump(data, ba, indent=4)
+
+    @commands.command()
+    async def wallet(self, ctx):
+        data = self.get_wallets()
+
+        if str(ctx.author.id) in data:
+            await ctx.send(f"{ctx.author.name}'s wallet : {data[str(ctx.author.id)]:,}")
+        else:
+            data[str(ctx.author.id)] = 1000
+            await ctx.send(f"{ctx.author.name}'s wallet : {data[str(ctx.author.id)]}")
+
+        self.update_wallets(data)
+
+    @commands.command(name="give")
+    async def give_command(self, ctx, member:discord.Member=None, amount=0.0):
+
+        async def callback(interaction):
+            if interaction.author.id != ctx.author.id:
+                await interaction.send("Go away you little kid")
+            else:
+                if interaction.custom_id == "confirm":
+                    data2 = self.get_wallets()
+                    if data2[str(ctx.author.id)] != data[str(ctx.author.id)]:
+                        await transaction.delete()
+                        await ctx.send("Your balance changed recently, please try again.")
+                        return
+                    data2[str(ctx.author.id)] -= float(amount)
+                    data2[str(member.id)] += float(amount)
+                    self.update_wallets(data2)
+                    emBed = discord.Embed(title="Transaction Confirmed", description=f"**From** : {ctx.author}\n**Amount** : {amount}\n**To** : {member}" , color=0xfbff00, timestamp=datetime.utcnow())
+                    emBed.set_footer(text=f"Balance : {data2[str(ctx.author.id)]} coin", icon_url=ctx.author.avatar_url)
+                    await interaction.edit_origin(embed=emBed, components=[])
+
+                elif interaction.custom_id == "cancel":
+                    emBed = discord.Embed(title="Transaction Canceled", color=0xfbff00)
+                    await interaction.edit_origin(embed=emBed, components=[])
+
+        data = self.get_wallets()
+        if str(ctx.author.id) not in data.keys():
+            await ctx.send("Create account first, `jek wallet` now and get free 1000 coin")
+            return
+        if amount <= 0 or member == None:
+            if str(ctx.author.id) in data:
+                balance = data[str(ctx.author.id)]
+                emBed=discord.Embed(title=f"{ctx.author.name}'s Account", description=f"**Balance** : {balance} coin", color=0x00ff62)
+                await ctx.send("`jek give @receiver amount` to make a transaction", embed=emBed)
+            else:
+                await ctx.send("Create account first, `jek wallet` now and get free 1000 coin")
+            return
+
+        else:
+            balance = data[str(ctx.author.id)]
+            if amount > balance:
+                balance = data[str(ctx.author.id)]
+                emBed=discord.Embed(title=f"{ctx.author.name}'s Account", description=f"**Balance** : {balance} coin", color=0x00ff62)
+                await ctx.send("You Broke Bro", embed=emBed)
+            elif ctx.author == member:
+                await ctx.send("โอนให้ตัวเองไม่ได้จ่ะ")
+            elif str(member.id) not in data:
+                await ctx.send("Receiver does not have an account")
+            else:
+                emBed=discord.Embed(title="Confirm Transaction", description=f"**From** : {ctx.author}\n**Amount** : {amount}\n**To** : {member}", color=0xfbff00)
+                transaction = await ctx.send(
+                    embed=emBed,
+                    components=[[
+                        self.bot.components_manager.add_callback(
+                            Button(style=ButtonStyle.green, label="CONFIRM", custom_id="confirm"),callback
+                        ),
+                        self.bot.components_manager.add_callback(
+                            Button(style=ButtonStyle.red, label="CANCEL", custom_id="cancel"),callback
+                        )
+                    ]]
+                )
+
+    @give_command.error
+    async def give_command_error(self, ctx, exc):
+        if isinstance(exc, discord.ext.commands.errors.MemberNotFound):
+            await ctx.send("Receiver not correct")
+        else:
+            await ctx.send(exc)
+
+    @commands.command()
+    async def checkin(self, ctx):
+        checkin_time = datetime.strftime(datetime.utcnow() + timedelta(hours=7), "%Y-%m-%d")
+        account = self.get_wallets()
+        if str(ctx.author.id) not in account.keys():
+            await ctx.send("Create account first, `jek wallet` now and get free 1000 coin")
+            return
+
+        with open("checkin_log.txt") as fp:
+            data = json.loads(fp.read())
+
+        if str(ctx.author.id) not in data:
+            data[str(ctx.author.id)] = {str(ctx.guild.id):checkin_time}
+            account[str(ctx.author.id)] += 50
+            self.update_wallets(account)
+
+
+        elif str(ctx.guild.id) not in data[str(ctx.author.id)]:
+            data[str(ctx.author.id)][str(ctx.guild.id)] = checkin_time
+            account[str(ctx.author.id)] += 50
+            self.update_wallets(account)
+
+        else:
+            last_time = datetime.strptime(data[str(ctx.author.id)][str(ctx.guild.id)], "%Y-%m-%d")
+            this_time = datetime.strptime(checkin_time, "%Y-%m-%d")
+            if last_time < this_time:
+                data[str(ctx.author.id)][str(ctx.guild.id)] = checkin_time
+                account[str(ctx.author.id)] += 50
+                self.update_wallets(account)
+            else:
+                await ctx.reply("มาใหม่พรุ่งนี้ หรือไปเช็คอินห้องอื่นเพิ่ม")
+                return
+
+        with open("checkin_log.txt", 'w') as fp:
+            json.dump(data, fp, indent=4)
+        await ctx.reply("**+50 coin** มาใหม่พรุ่งนี้ หรือไปเช็คอินห้องอื่นเพิ่ม")
+        return
+
+    @commands.command()
+    async def withdraw(self, ctx):
+        async def callback(interaction):
+            pass
+        await ctx.trigger_typing()
+        with open("bet-account.txt") as ba:
+            account = json.loads(ba.read())
+            if str(ctx.author.id) not in account:
+                await ctx.send("Create account first, `jek wallet` now and get free 1000 coin")
+                return
+        emBed=discord.Embed(title=f"{ctx.author.name}'s Account", description=f"**Balance** : {account[str(ctx.author.id)]} coin", color=0x00ff62)
+        await ctx.send(embed=emBed,
+            components=[
+                self.bot.components_manager.add_callback(
+                    Button(style=ButtonStyle.URL, label="Withdraw", url="https://bit.ly/3GCBSgq"),callback
+                )
+            ]
+        )
+
+
+
+def setup(bot):
+    bot.add_cog(Economic(bot))

@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 720885,
+            "referee": "Isidro D\u00edaz de Mera",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-11-30T03:00:00+07:00",
+            "timestamp": 1638216000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 1486,
+                "name": "Estadio El Sadar",
+                "city": "Iru\u00f1ea"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2021,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png",
+                "winner": null
+            },
+            "away": {
+                "id": 797,
+                "name": "Elche",
+                "logo": "https://media.api-sports.io/football/teams/797.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]

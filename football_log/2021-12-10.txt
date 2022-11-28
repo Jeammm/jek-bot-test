@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 787653,
+            "referee": "Anthony Taylor, England",
+            "timezone": "Asia/Bangkok",
+            "date": "2021-12-10T01:00:00+07:00",
+            "timestamp": 1639072800,
+            "periods": {
+                "first": 1639072800,
+                "second": 1639076400
+            },
+            "venue": {
+                "id": 879,
+                "name": "Gewiss Stadium",
+                "city": "Bergamo"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2021,
+            "round": "Group Stage - 6"
+        },
+        "teams": {
+            "home": {
+                "id": 499,
+                "name": "Atalanta",
+                "logo": "https://media.api-sports.io/football/teams/499.png",
+                "winner": false
+            },
+            "away": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 3
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 2
+            },
+            "fulltime": {
+                "home": 2,
+                "away": 3
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]
