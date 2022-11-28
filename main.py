@@ -122,5 +122,4 @@ async def say():
 
 
 #keep_alive()
-#bot_token = "OTM5NTkzNzk3MjY2OTk3MzU4.Yf7G6g.0FaMK9wI2Ifpzms5snLFlKNsXpM"
 bot.run(BOT_TOKEN)
